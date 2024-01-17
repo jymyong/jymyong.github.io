@@ -85,6 +85,14 @@ https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 # 4、EGP源
 
+[fanmingming/live](https://github.com/fanmingming/live)
+
+[112114.xyz](https://diyp1.112114.xyz/)
+
+[epg.51zmt.top:8000](http://epg.51zmt.top:8000/)
+
+See https://m3u.ibert.me to get more
+
 http://epg.51zmt.top:8000/e.xml
 
 https://epg.112114.xyz/pp.xml
