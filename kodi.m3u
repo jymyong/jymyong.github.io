@@ -377,6 +377,22 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17
 http://51.159.104.29:8080/action/index.m3u8
 #EXTINF:-1 group-title="点播",重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" group-title="国际",NBA TV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" group-title="国际",MLB Network
+http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="国际",Tennis Channel
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="国际",NFL Network
+http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1 group-title="国际",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 tvg-id="OxygenEast.us" group-title="国际",Oxygen True Crime
+http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
+#EXTINF:-1 group-title="国际",Sky Sport
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="国际",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC America
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="国际",HBO Plus
@@ -389,8 +405,12 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",&Flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="国际",Outdoor Channel
+http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="·4K",Love Nrture 4K「自然」
