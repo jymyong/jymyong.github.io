@@ -95,20 +95,6 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
 
 🎬轮播电影,#genre#
-4K电影,http://allinone.netsite.cc/douyu/9249162
-华语电影1,http://allinone.netsite.cc/douyu/122402
-华语电影2,http://allinone.netsite.cc/douyu/85894
-粤语电影,http://allinone.netsite.cc/douyu/6566671
-欧美电影,http://allinone.netsite.cc/douyu/20415
-国内惊悚,http://allinone.netsite.cc/douyu/218859
-国外惊悚,http://allinone.netsite.cc/douyu/96577
-斗鱼电影1,http://allinone.netsite.cc/douyu/747764
-斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
-斗鱼电影3,http://allinone.netsite.cc/douyu/36337
-斗鱼电影4,http://allinone.netsite.cc/douyu/2436390
-斗鱼电影5,http://allinone.netsite.cc/douyu/323876
-榜单电影,http://allinone.netsite.cc/douyu/8770422
-
 赌神,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
 赌侠2之上海滩赌圣,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
 赌侠1990,https://txmov2.a.kwimgs.com/upic/2021/12/27/23/BMjAyMTEyMjcyMzE0NTFfNDAzMDAxOTlfNjM2NTMxODUxMDBfMF8z_bF_Bdb9e531cd6e9c71bb366fe9c16429985.mp4
@@ -152,7 +138,6 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 午夜43路,https://txmov2.a.kwimgs.com/upic/2021/09/28/22/BMjAyMTA5MjgyMjM2NTJfMTI0MzE0NjMyOF81ODAwOTA0NzQyNV8yXzM=_b_Bf914d7c0f0f2867aebc49ae6986bffcf.mp4
 午夜出租车,https://txmov2.a.kwimgs.com/upic/2021/08/16/17/BMjAyMTA4MTYxNzI3MTlfMTI0MzE0NjMyOF81NTM2NjM3MzkzNV8yXzM=_b_B4ac8d02310b93305215c496928a6f8e6.mp4
 午夜惊魂路,https://txmov2.a.kwimgs.com/upic/2021/09/18/20/BMjAyMTA5MTgyMDM0MzJfMTI0MzE0NjMyOF81NzM4MjIzOTQ2M18yXzM=_hd15_B4cdd5e1ecd0e8be46e16ae51e94aee0d.mp4
-
 
 👉其他频道,#genre#
 CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
