@@ -94,6 +94,27 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
 凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
 
+👉其他频道,#genre#
+CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+CGTN,http://01e117.netsite.cc/proxy/1464174866/1464174866.m3u8
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN法语频道,http://01e117.netsite.cc/proxy/1237082374/1237082374.m3u8
+CGTN俄语频道,http://01e117.netsite.cc/proxy/1081207990/1081207990.m3u8
+CGTN阿拉伯语频道,http://01e117.netsite.cc/proxy/1911119040/1911119040.m3u8
+CGTN西班牙语频道,http://01e117.netsite.cc/proxy/657032256/657032256.m3u8
+CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
+1905-电影网,http://01e117.netsite.cc/proxy/1747360543/1747360543.m3u8
+咪咕体育,http://01e117.netsite.cc/proxy/1168525477/1168525477.m3u8
+魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+茶频道,http://01e117.netsite.cc/proxy/1322311734/1322311734.m3u8
+快乐垂钓,http://01e117.netsite.cc/proxy/316113716/316113716.m3u8
+
 🎬轮播电影,#genre#
 4K电影,http://allinone.netsite.cc/douyu/9249162
 华语电影1,http://allinone.netsite.cc/douyu/122402
@@ -152,27 +173,6 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 午夜43路,https://txmov2.a.kwimgs.com/upic/2021/09/28/22/BMjAyMTA5MjgyMjM2NTJfMTI0MzE0NjMyOF81ODAwOTA0NzQyNV8yXzM=_b_Bf914d7c0f0f2867aebc49ae6986bffcf.mp4
 午夜出租车,https://txmov2.a.kwimgs.com/upic/2021/08/16/17/BMjAyMTA4MTYxNzI3MTlfMTI0MzE0NjMyOF81NTM2NjM3MzkzNV8yXzM=_b_B4ac8d02310b93305215c496928a6f8e6.mp4
 午夜惊魂路,https://txmov2.a.kwimgs.com/upic/2021/09/18/20/BMjAyMTA5MTgyMDM0MzJfMTI0MzE0NjMyOF81NzM4MjIzOTQ2M18yXzM=_hd15_B4cdd5e1ecd0e8be46e16ae51e94aee0d.mp4
-
-👉其他频道,#genre#
-CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-CGTN,http://01e117.netsite.cc/proxy/1464174866/1464174866.m3u8
-CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN法语频道,http://01e117.netsite.cc/proxy/1237082374/1237082374.m3u8
-CGTN俄语频道,http://01e117.netsite.cc/proxy/1081207990/1081207990.m3u8
-CGTN阿拉伯语频道,http://01e117.netsite.cc/proxy/1911119040/1911119040.m3u8
-CGTN西班牙语频道,http://01e117.netsite.cc/proxy/657032256/657032256.m3u8
-CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
-1905-电影网,http://01e117.netsite.cc/proxy/1747360543/1747360543.m3u8
-咪咕体育,http://01e117.netsite.cc/proxy/1168525477/1168525477.m3u8
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-茶频道,http://01e117.netsite.cc/proxy/1322311734/1322311734.m3u8
-快乐垂钓,http://01e117.netsite.cc/proxy/316113716/316113716.m3u8
 
 📛春晚小品,#genre#
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
@@ -243,5 +243,4 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 寄生兽灰色部队（04集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC04%E9%9B%86/index.m3u8
 寄生兽灰色部队（05集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC05%E9%9B%86/index.m3u8
 寄生兽灰色部队（06集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC06%E9%9B%86/index.m3u8
-
 
