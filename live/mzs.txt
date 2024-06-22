@@ -232,7 +232,7 @@ CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
 亲爱的财神,https://pl-ali.youku.com/playlist/m3u8?vid=XNTkzNzkwMTc5Ng%3D%3D&type=flvhdv3&ups_client_netip=99230084&utid=o239HjqVmxkCAZkjAITz1NUP&ccode=0512&psid=271b8b53f4ed0f72bc96e1c1bdbf784341346&app_ver=1.10.1.1&duration=752&expire=18000&drm_type=1&drm_device=7&drm_default=1&dyt=0&ups_ts=1719044479&onOff=0&encr=0&ups_key=92e9618b7ad255eb66f54ad73df90d9e&ckt=1&m_onoff=0&pn=&drm_type_value=default
 天龙八部,https://pl-ali.youku.com/playlist/m3u8?vid=XNDEwMDU5NTYwOA%3D%3D&type=flv&ups_client_netip=99230084&utid=o239HjqVmxkCAZkjAITz1NUP&ccode=0512&psid=1c01df37fb2a2d2191e67be93b26097f41346&app_ver=1.10.1.1&duration=740&expire=18000&drm_type=1&drm_device=7&drm_default=1&dyt=1&ups_ts=1719044559&onOff=0&encr=0&ups_key=e6afda87e372f564b87579bc4bb8d9ed&ckt=1&m_onoff=0&pn=&drm_type_value=default
 
-📛庆余年第二季
+📛庆余年第二季,#genre#
 01集,https://super.ffzy-online6.com/20240516/31219_2757ba53/2000k/hls/index.m3u8
 02集,https://super.ffzy-online6.com/20240516/31220_8a18f8ed/2000k/hls/index.m3u8
 03集,https://super.ffzy-online6.com/20240516/31221_701d68b7/2000k/hls/index.m3u8
