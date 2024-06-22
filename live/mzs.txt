@@ -109,46 +109,8 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 斗鱼电影5,http://allinone.netsite.cc/douyu/323876
 榜单电影,http://allinone.netsite.cc/douyu/8770422
 
-鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
-恐怖故事,http://43.138.170.29:35455/douyu/2337939
-科幻动作,http://43.138.170.29:35455/douyu/4332
-怡寳影院,http://43.138.170.29:35455/douyu/434971
-粤语电影,http://43.138.170.29:35455/douyu/6566671
-苹果影院,http://43.138.170.29:35455/douyu/2793084
-午夜故事,http://43.138.170.29:35455/douyu/8722254
-译制国语,http://43.138.170.29:35455/douyu/2436390
-蚂蚱影院,http://43.138.170.29:35455/douyu/6079455
-纪录片,http://43.138.170.29:35455/douyu/4360438
-贝爷求生,http://43.138.170.29:35455/douyu/454867
-恐怖丧尸鬼片,http://43.138.170.29:35455/douyu/263824
-荒野建造者,http://43.138.170.29:35455/douyu/9611578
-邦德影院,http://43.138.170.29:35455/douyu/9292499
-特辑影院,http://43.138.170.29:35455/douyu/3637778
-惊悚影院,http://43.138.170.29:35455/douyu/96577
-吃米滴虫,http://43.138.170.29:35455/douyu/315457
-漫威影片,http://43.138.170.29:35455/douyu/6140589
-刘德华电影1,http://43.138.170.29:35455/douyu/2516864
-豆瓣高分,http://43.138.170.29:35455/douyu/8770422
-林正英电影2,http://43.138.170.29:35455/douyu/7356023
-宇哥电影,http://43.138.170.29:35455/douyu/413573
-贝爷影厅2,http://43.138.170.29:35455/douyu/36337
-霍格影片,http://43.138.170.29:35455/douyu/8814650
-冰冰经典电影,http://43.138.170.29:35455/douyu/74374
-避风港影院,http://43.138.170.29:35455/douyu/9826611
-恐怖经典,http://43.138.170.29:35455/douyu/1165374
-华语电影,http://43.138.170.29:35455/douyu/3928
-喜剧电影,http://43.138.170.29:35455/douyu/9292492
-一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
-片荒的日子,http://43.138.170.29:35455/douyu/4258555
-大胡子魏,http://43.138.170.29:35455/douyu/8792763
-童年回忆,http://43.138.170.29:35455/douyu/8915074
-下饭神剧,http://43.138.170.29:35455/douyu/276200
-悬疑犯罪,http://43.138.170.29:35455/douyu/9171887
-不一样的电影,http://43.138.170.29:35455/douyu/2632223
-开心锤锤,http://43.138.170.29:35455/douyu/9018297
-凛冬之地,http://43.138.170.29:35455/douyu/8945323
-看美剧,http://43.138.170.29:35455/douyu/8869614
-
+赌神,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
+赌侠2之上海滩赌圣,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
 赌侠1990,https://txmov2.a.kwimgs.com/upic/2021/12/27/23/BMjAyMTEyMjcyMzE0NTFfNDAzMDAxOTlfNjM2NTMxODUxMDBfMF8z_bF_Bdb9e531cd6e9c71bb366fe9c16429985.mp4
 赌侠1999,https://txmov2.a.kwimgs.com/upic/2021/02/07/10/BMjAyMTAyMDcxMDEzMzZfNDAzMDAxOTlfNDM3MzM4MjMzMzBfMF8z_b_B4a59a2352495fc067341ccd71f7682b5.mp4
 绝代双骄,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTI1NTZfNDAzMDAxOTlfNjM2NjgzNTczODVfMF8z_bF_Bc720676583ca56b0ef29756139ed2471.mp4
@@ -164,196 +126,33 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 叶问,https://txmov2.a.kwimgs.com/upic/2020/12/14/17/BMjAyMDEyMTQxNzM1MzRfNDAzMDAxOTlfNDA3MDI0NzczMDJfMF8z_b_Bc617b3a6837c6897fc9155b08d0425a5.mp4
 无耻神混,https://txmov2.a.kwimgs.com/bs3/video-hls/5209538933209942732_hlsb.m3u8?pkey=AAXDLFLfdH5F0v7MtrB0eKM5KOxjcQuhTzz2wo3cH0BpiLtCd6SftpO8Qmi62Z7aCbh4z2WvJlsUXW_oCNQIYA6cGsVbJRY8YLQG84OCtw8a5YbJLX0mcwkcm0Lac4UAMKk
 青面修罗,https://hxf118.gzc.svp.tencent-cloud.com/0bc3gyaaqaaaaiaanc37w5rfanwdba3aacaa.f10002.mp4?
-黑太阳731,https://hxf117.gzc.svp.tencent-cloud.com/0bf2eiaacaaamqampusge5qvaiwdaeraaaia.f10002.mp4?
-时失2公里,https://hxf118.gzc.svp.tencent-cloud.com/0bc3naaagaaa5qakp3625bqva2gdanuaaaya.f10002.mp4?
-国家宝藏,https://hxf119.gzc.svp.tencent-cloud.com/0bc3laamcaaauaapqslk75rvawgdyfmabqia.f10002.mp4?
-唐顿庄园22022,https://hxf119.gzc.svp.tencent-cloud.com/0bc3xqalcaaaaqao6rtem5rvbpgdwg6abmia.f10002.mp4?
-毛泽东的故事,https://cdn.zoubuting.com/20221108/IMTGbzvB/index.m3u8
-我放纵情欲的夜晚,https://hxf119.gzc.svp.tencent-cloud.com/0bf2kmaauaaan4acvwpmqfqfau6dbjjqacqa.f10002.mp4?
-杀手代号47,https://hxf119.gzc.svp.tencent-cloud.com/0bf2muaa2aaa7ealnnr4qnqvazodbvsqadia.f10002.mp4?
-英雄本色粤语版,https://s1.zoubuting.com/20220620/OVWhMdsA//hls/index.m3u8
-倚天屠龙记之魔教教主粤语版,https://v3.cdtlas.com/20211209/zImISlM9/1100kb/hls/index.m3u8?_=1656263151758
-少林寺粤语版,https://s1.zoubuting.com/20220620/PT55uANg/hls/index.m3u8
-奥林匹斯的陷落,https://hxf1031.gzc.svp.tencent-cloud.com/0bf22aaakaaa4iak6jyvnfqfbugdaxiaabia.f10002.mp4
-十二生肖,https://hxf115.gzc.svp.tencent-cloud.com/0bf2giaacaaavuakmh5ffjqfamwdaezaaaia.f10002.mp4?
-飞龙再生,https://hxf115.gzc.svp.tencent-cloud.com/0bf2syabeaaarqaioffmhfqfbfwdcklaaeqa.f10002.mp4?
-我是谁,https://hxf115.gzc.svp.tencent-cloud.com/0b78saaacaaa3iaae2ttufqvbegdagiaaaia.f10002.mp4?
-警察故事3超级警察,https://hxf115.gzc.svp.tencent-cloud.com/0bf2v4g24aan34ackamd6rpv3l6dv2xq3lqa.f10002.mp4?
-白金龙警察故事4简单任务,https://hxf115.gzc.svp.tencent-cloud.com/0bf2uuaa2aaabqanrlenorpfbjodbwsqadia.f10002.mp4?
-复仇,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339284438461971_hlsb.m3u8?pkey=AAWQQgYuqAn-t8d0hbCgTJLzgNBtEa8Abgy7YencUlv7VAZrqV4qaSJIidTtRnesJmRrLQe6BuvsSiN81YoPM_BLpl2o607NLO5WLHWgezR-3BKLwOSLoipTZSGPR1CSOLQ
-多伦多来的男人,https://hxf115.gzc.svp.tencent-cloud.com/0bc3duaacaaaaiahskvve5rfahodaeoqaaia.f10002.mp4?
 甜蜜杀机,https://txmov2.a.kwimgs.com/upic/2022/01/05/20/BMjAyMjAxMDUyMDAxMzBfNDAzMDAxOTlfNjQyODYzNTg0MzdfMF8z_b_B8f7810d3b3d3e85455dcd3ae71a0873e.mp4
 消失的凶手,https://txmov2.a.kwimgs.com/upic/2022/01/05/18/BMjAyMjAxMDUxODU4NTNfNDAzMDAxOTlfNjQyODEzODQ3MjZfMF8z_b_Bddd861f86c50a6a0983440cab577ad46.mp4
 长安道,https://txmov2.a.kwimgs.com/upic/2022/01/12/17/BMjAyMjAxMTIxNzI3NDhfNDAzMDAxOTlfNjQ3MzAwNTA2ODJfMF8z_b_Bd60c5c15b0cd9116107864139a79d03e.mp4
-一线生机,https://hxf115.gzc.svp.tencent-cloud.com/0bc3suaboaaa4aafv44kdrqvbfodc6kqafya.f10002.mp4?
-地狱尖兵,https://hxf1022.gzc.svp.tencent-cloud.com/0b2evuaguaaatuaojzkmibrvblodnkwqa2qa.f10002.mp4?
-喜剧明星,https://s1.zoubuting.com/20220621/opwOk4h4/index.m3u8
-杀戮都市2,https://vip.lz-cdn2.com/20220425/4423_243ad5a4/1200k/hls/index.m3u8
-宇宙追辑令,https://wolongzywcdn2.com:65/QiHXJS2v/index.m3u8
 新精武门:武魂,https://vip.lz-cdn1.com/20220318/282_6776ba05/index.m3u8
 唐人街探案3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
-初吻1,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3syaamaaaoaaeg5a7tzrvbfwda2laabqa.f10002.mp4?
-初吻2,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3nyaamaaa4aaeuhi7sfrva3wdazxaabqa.f10002.mp4?
-的士飙花,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3eaaamaaajaadekq7tjrvaigdayqaabqa.f10002.mp4?
-最可爱的人,https://pps.sd-play.com/20211118/hxWztygq/index.m3u8
-忠烈杨家将,https://pps.sd-play.com/20220113/tbba6X5b/index.m3u8
-剿匪女使樊梨花,https://baidu.sd-play.com/20221024/2b5IxTOF/index.m3u8
-机械师,https://hxf1031.gzc.svp.tencent-cloud.com/0bc3myacuaaa6mah3pjmqjrvazwdfjtaakqa.f10002.mp4?
-危情谍战,https://hxf1031.gzc.svp.tencent-cloud.com/0b2ee4acgaaaoaahpubmqjrvaj6demtqaiya.f10002.mp4?
-初吻2,https://hxf1031.gzc.svp.tencent-cloud.com/0bc3nyaamaaa4aaeuhi7sfrva3wdazxaabqa.f10002.mp4?
-的士飙花,https://hxf1031.gzc.svp.tencent-cloud.com/0bc3eaaamaaajaadekq7tjrvaigdayqaabqa.f10002.mp4?
-鹿鼎记1982,https://hxf1030.gzc.svp.tencent-cloud.com/0bc3yyaa6aaaqealdrhxvbqvbrwdb7daadya.f10004.mp4?
 灵异出窍1989,https://wolongzywcdn3.com:65/20220430/ERJDnFAN/index.m3u8
 善恶魔法学院,https://hxf1030.gzc.svp.tencent-cloud.com/0bc3tyaiqaaanqapwtkrjjrvbhwdrcpabcaa.f10002.mp4?
-醉侠苏乞儿,https://vod2.bdzybf7.com/20220330/uFcfySxF/index.m3u8
-擎天无影脚黄麒英,https://vod2.bdzybf7.com/20220330/PBcSGKRJ/index.m3u8
-精武风云.陈真,https://hxf1027.gzc.svp.tencent-cloud.com/0b78dmaaaaaa64adbisgffqvag6daanqaaaa.f10002.mp4?
-养鬼吃人2022,https://hxf1028.gzc.svp.tencent-cloud.com/0bc36eadgaaajmaoqisa6frvb4odgpyqamya.f10002.mp4?
-风语咒国语中字,https://hxf1028.gzc.svp.tencent-cloud.com/0b78waaaaaaalqaokodinbpfbmgdacyaaaaa.f10002.mp4?
-佩小姐的奇幻城堡,https://hxf1028.gzc.svp.tencent-cloud.com/0bc3teaaiaaar4aepaa4tzrvbgodasmqabaa.f10002.mp4?
-大红狗,https://hxf1028.gzc.svp.tencent-cloud.com/0bc3bqacyaaa24ana7zmqrrvadgdfqgaalaa.f10002.mp4
-狼和狮子,https://hxf1029.gzc.svp.tencent-cloud.com/0bc3riaaoaaa3yacrb2birrfbcwda6faabya.f10002.mp4?
-硬汉枪神,https://hxf1029.gzc.svp.tencent-cloud.com/0bc32iabuaaaqiabgbheyfrfbuwddljaagqa.f10002.mp4?
-蛮荒的童话,https://hxf1029.gzc.svp.tencent-cloud.com/0bf2suagcaaayuallva63rqvbfodmgkqayia.f10003.mp4
-热吻,https://hxf1030.gzc.svp.tencent-cloud.com/0bf2weafaaaa5iaccxwzc5qfbmodkcyqauaa.f10002.mp4?
-海云台难,https://hxf1030.gzc.svp.tencent-cloud.com/0b2edyaaeaaaneaosnw7xjqvahwdaipaaaqa.f10002.mp4?
-情圣,https://playmv.vip/m3u8/28c8c945d4d6e586d5ef6dde0a2d43a1.m3u8
 九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
-破坏之王,https://v4.cdtlas.com/20220517/bKU3OCbP/index.m3u8
-千与千寻,https://hxf112.gzc.svp.tencent-cloud.com/0b2ewiaagaaaymadxaeawjrfbmwdaozaaaya.f10002.mp4?
-九叔归来3:魁蛊婴,https://hxf112.gzc.svp.tencent-cloud.com/0bc3waaa4aaagmaljp4f4rrfbmgdb2yaadqa.f10002.mp4?
-黄金蜘蛛城,https://hxf112.gzc.svp.tencent-cloud.com/0bc3x4abkaaatiabbrejwfrfbp6dcw7qafia.f10002.mp4?
-人蛇大战,https://hxf112.gzc.svp.tencent-cloud.com/0bc3pmabaaaapaafbd4hznrfa66dcb5qaeaa.f10002.mp4?
-喜剧之王,https://hxf112.gzc.svp.tencent-cloud.com/0bc3kiabgaaaqmafxq4kzbrfauwdcnjaaeya.f10002.mp4?
-世界之战,https://hxf112.gzc.svp.tencent-cloud.com/0bf25aafsaaakuap6wyx5jqvb2gdlhuaawia.f10002.mp4?
-龙女孩2022,https://hxf112.gzc.svp.tencent-cloud.com/0bc3eqakcaaa3iamenlbt5rvajgduesabiia.f10002.mp4?
-新神榜:杨戬,https://hxf112.gzc.svp.tencent-cloud.com/0b2euuaauaaakaamymlbdbrvbjodbksqacqa.f10002.mp4?
-芙蓉镇,https://txmov2.a.kwimgs.com/upic/2023/02/13/13/BMjAyMzAyMTMxMzU5MzJfNzM5MzQzNzIyXzk2MTI0ODY3NjAwXzBfMw==_b_B436ff38d447ce72f50c0cb4bad24f375.mp4
-芙蓉镇,https://vip.lz-cdn7.com/20230113/13469_57a43622/2000k/hls/mixed.m3u8
+九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 高山下的花环,https://txmov2.a.kwimgs.com/upic/2023/02/13/14/BMjAyMzAyMTMxNDQ1NThfNzM5MzQzNzIyXzk2MTI3MzU3Mjc2XzBfMw==_b_B31318452d18c2c4b2add9f69b3226bbb.mp4
 高山下的花环,https://vip.lz-cdn7.com/20230113/13467_09cee196/2000k/hls/mixed.m3u8
 红高粱,https://txmov2.a.kwimgs.com/upic/2023/02/13/15/BMjAyMzAyMTMxNTIwNDFfNzM5MzQzNzIyXzk2MTI5MjUzMTA3XzBfMw==_b_B61a37e0ac4bde70e8b83b663bf6f8500.mp4
 红高粱,https://vip.lz-cdn7.com/20230113/13464_7856c520/2000k/hls/mixed.m3u8
 开国大典,https://vip.lz-cdn7.com/20230210/14102_acfeab3c/2000k/hls/mixed.m3u8
 开国大典,https://txmov2.a.kwimgs.com/upic/2023/02/13/16/BMjAyMzAyMTMxNjQ3MDVfNzM5MzQzNzIyXzk2MTM0MjQxMTA3XzBfMw==_b_B7d2ca994a56de18f37a0b61554ef71ba.mp4
-TVB经典剑客与灵童,https://hxf1130.gzc.svp.tencent-cloud.com//0bc3fialgaaa5aaccktemrrvakwdwmvabmya.f10004.mp4?
-奥林匹斯的陷落,https://hxf1031.gzc.svp.tencent-cloud.com/0bf22aaakaaa4iak6jyvnfqfbugdaxiaabia.f10002.mp4?
-八仙饭店之人肉叉烧包,https://sod12.btycsw.com/20221006/z23ScHa5/index.m3u8
-白日焰火,https://hxf102.njc.svp.tencent-cloud.com/0bc3raaagaaakqapmmbsmzrvbcgdaoeaaaya.f10002.mp4?
-百变狸猫,https://hxf1129.gzc.svp.tencent-cloud.com//0b786mabqaaaieaouve6bzqfb46dddzqagaa.f10002.mp4?
-比基尼泳装,https://hxf1031.gzc.svp.tencent-cloud.com/0b2enqaakaaaryakl3c4c5rva3gdavwaabia.f10002.mp4?
-碧海追踪,https://hxf1113.gzc.svp.tencent-cloud.com/0b78jyaauaaanuadaeikx5qvatwdbjhaacqa.f10002.mp4
-变脸,https://hxf105.njc.svp.tencent-cloud.com/0bf2zuaakaaafmaeohxiqzqfbtodaxgqabia.f10002.mp4?
-镖行天下之牡丹阁,https://txmov2.a.kwimgs.com/upic/2021/10/09/08/BMjAyMTEwMDkwODQ5NDNfMTI0MzE0NjMyOF81ODczMzA0Nzc5NF8yXzM=_b_B6cdb22f97b91445496f73514fc915bdd.mp4
-超级学校霸王1994,https://hxf1130.gzc.svp.tencent-cloud.com//0bc33qaaoaaaw4aco6t6xfrvbxgda7oaabya.f10002.mp4?
-冲击救援,https://hxf115.gzc.svp.tencent-cloud.com/0bc3imaaqaaazyapnb5lxbrfaq6dbbbqacaa.f10002.mp4?
-此房是我造,https://hxf102.njc.svp.tencent-cloud.com/0bf2k4ae2aaa3aap4ke3krqfav6djvlqatia.f10002.mp4?
-错误的地方,https://hxf1022.gzc.svp.tencent-cloud.com/0b2edmaagaaaw4agxarcsjrvag6damnqaaya.f10102.mp4
-大城小爱,https://vd3.bdstatic.com/mda-khrbgrnm9v55ygnw/hd/mda-khrbgrnm9v55ygnw.mp4
-大红狗,https://hxf1028.gzc.svp.tencent-cloud.com/0bc3bqacyaaa24ana7zmqrrvadgdfqgaalaa.f10002.mp4?
-地狱尖兵,https://hxf1022.gzc.svp.tencent-cloud.com/0b2evuaguaaatuaojzkmibrvblodnkwqa2qa.f10002.mp4
-喋血街头,https://hxf928.njc.svp.tencent-cloud.com/0bf2qyabyaaabuahjpz6ujqfbbwddsdaahaa.f10003.mp4?
-独行月球,http://cache.ott.fifavod.itv.cmvideo.cn/20018572404/20018572404.m3u8
-赌神,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
-赌侠2之上海滩赌圣,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
-顿巴斯前线,https://cdnv.rt.com/download/doc-files/filmy/chvk-vagner-kontrakt-s-rodinoi/chvk-vagner-kontrakt-s-rodinoi_3.mp4
-飞龙猛将,https://vod2.bdzybf7.com/20220330/0VKtQPNy/index.m3u8
-福尔摩斯小姐2,http://mmmitv.top/test/kdy.php?id=185339.html&tag=video&type=dinary&opt=0
-福尔摩斯小姐2快,https://hxf1022.gzc.svp.tencent-cloud.com/0b2egqabaaaabaabsttgajrvangdca2aaeaa.f10102.mp4
-复仇者联盟4终局之战,https://50069.njc.svp.tencent-cloud.com//0b78eaaamaaasyabgn3m7jqfaigdayqaabqa.f10002.mp4?
-港囧,https://hxf105.njc.svp.tencent-cloud.com/0bf2yiaveaabw4antavhy5pvdqwdklbacuqa.f10002.mp4?
-棺山古墓2022,https://vip.lz-cdn1.com/20221112/18285_6f30bb60/index.m3u8
-海蒂,https://hxf1112.gzc.svp.tencent-cloud.com/0b7874aamaaalmaci47ep5qfb76da37qabqa.f10002.mp4?
-韩国小姐姐,https://hxf102.njc.svp.tencent-cloud.com/0b2ek4abaaaaxaadifjvhjrvav6dcblqaeaa.f10002.mp4?
-喊山,https://hxf119.gzc.svp.tencent-cloud.com/0b78cmaaeaaa5qafzujlqbpvae6daijqaaqa.f10002.mp4?
-和平饭店,https://hxf928.njc.svp.tencent-cloud.com/0b78fqabkaaadiahv7jbvbqvalgdcuwaafia.f10003.mp4?
-黑豹天下,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3vaabaaaatuais6eh6frfbkgdccuaaeaa.f10003.mp4
-黑社会2以和为贵,https://2022919.njc.svp.tencent-cloud.com/0b7844aaeaaaryamffd5cvqfbz6daltqaaqa.f10002.mp4?
-轰天谍战,https://hxf115.gzc.svp.tencent-cloud.com/0bc3fmaaeaaaxmany2z26jrfak6daivqaaqa.f10002.mp4?
-红高粱,https://hxf119.gzc.svp.tencent-cloud.com/0bf2f4aaeaaakmap466bbjpfal6daixqaaqa.f10002.mp4?
-红牡丹,https://txmov2.a.kwimgs.com/upic/2022/03/26/15/BMjAyMjAzMjYxNTMwMjBfMTk3MTQ3Njk5N183MDUwMzQwMTcyNV8yXzM=_b_Bdb4cb0ccf894792a00415f74b9075b9f.mp4
-花田喜事1991,https://hxf1130.gzc.svp.tencent-cloud.com//0b2e6qaayaaajuamfjmgzzrvb5gdbt2aadaa.f10004.mp4?
-淮海战役,https://hxf105.njc.svp.tencent-cloud.com/0b78yiaaaaaayeaktkiqljqfbqwdadbaaaaa.f10002.mp4
-谎言之躯版,https://hxf119.gzc.svp.tencent-cloud.com/0bf2hyafsaaaqiapkpq345qvapwdle7aawia.f10002.mp4?
-火车上的女孩未删减版,https://hxf1031.gzc.svp.tencent-cloud.com/0bf2uiaauaaa74abfyxyuzqfbiwdbkraacqa.f10002.mp4?
-极道女流氓传说：审判与侵略,https://vip.lz-cdn3.com/20221109/15664_b5cd2b67/index.m3u8
-角斗士,https://hxf1031.gzc.svp.tencent-cloud.com/0b2emaabeaaawyajogm4wfrfaygdcjqaaeqa.f10002.mp4?
-警戒结束,https://hxf925.njc.svp.tencent-cloud.com/0bc3tmabmaaaqmacfgytpvrvbg6dc2nqafqa.f10002.mp4?
-囧妈,https://hxf105.njc.svp.tencent-cloud.com/0b2ediaacaaayqapzeffyzrfagwdaenaaaia.f10002.mp4
-九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
-恐怖片爱丽丝,https://hxf1113.gzc.svp.tencent-cloud.com/0bf2eyafcaaax4acqimwivqfajwdketaauia.f10002.mp4
-狂暴巨兽,https://hxf925.njc.svp.tencent-cloud.com/0bc3fuaaaaaau4alwbaqwbrvalodaawqaaaa.f10002.mp4?
-狼牙山五壮士,https://txmov2.a.kwimgs.com/upic/2021/09/13/23/BMjAyMTA5MTMyMzI0NDZfMTI0MzE0NjMyOF81NzEyNzc1ODUxM18yXzM=_b_Bd5a097c0724b5144fa14f9763ddd07b6.mp4
-雷神4爱与雷霆2022,https://50069.njc.svp.tencent-cloud.com//0b2ekmaauaaajyab536whnrfau6dbjjqacqa.f10002.mp4?
-冷血十三鹰1978,https://hxf115.gzc.svp.tencent-cloud.com/0bc3o4accaaacaaoqlierfrfa56def3qaiia.f10002.mp4?
-柳浪闻莺,https://cdn.zoubuting.com/20221106/3270cuOh/index.m3u8
-龙岭迷窟,https://m3u8.zhisongip.com:38741/video/5c4a609a73e0e4ac5f7dfe87cac6bbed.m3u8
-龙威父子,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168429437112309_hlshd15.m3u8
-猛男必看末日激战,https://hxf1112.gzc.svp.tencent-cloud.com/0b78jiaaeaaa74afozz4pjqvaswdajfaaaqa.f10003.mp4?
-魔女2,https://aqy-xhzy.com/videos/62d2676e5582537ee159f220/11be5g/index.m3u8
-魔女完整版,https://hxf105.njc.svp.tencent-cloud.com/0bf2nuab2aaajiapirxbcfpva3oddvwqahia.f10002.mp4?
-内当家,https://txmov2.a.kwimgs.com/upic/2022/05/05/18/BMjAyMjA1MDUxODEzMTJfMjE0MTE5MTMzN183MzcxNzU5MDc1M18yXzM=_b_Bd2aace9af59ba5f2d93cde2dd1da4100.mp4
-你好 李焕英,https://cache.tkys.tv/m3u8/314dc21da922ea8780f81d6c82b36295.m3u8
-平凡英雄-中字,https://vip.lz-cdn10.com/20221118/2988_c1421df9/index.m3u8
-奇幻精灵事件簿,https://hxf930.njc.svp.tencent-cloud.com/0bc3cmadqaaa5maacyzqsbrvae6dhajqaoaa.f10002.mp4?
-奇门异人,http://mmmitv.top/test/kdy.php?id=169951.html&tag=video&type=dinary&opt=0
-千洞岛抗倭记,https://cdn.zoubuting.com/20221031/Q9F2oKLd/1000kb/hls/index.m3u8
-秦颂,https://hxf1112.gzc.svp.tencent-cloud.com/0bf2mmbdoaachaaign6ptrpvey6dg5rqenya.f10002.mp4?
-青面修罗,https://m3u8.zhisongip.com:38741/video/a2a99731570679b584b8272cada3143d.m3u8
-青蛇,https://hxf922.njc.svp.tencent-cloud.com/0bf2zuaa2aaamuaiezapjrqfbtodbxgqadia.f10002.mp4?
-全球风暴完整版,https://2022919.njc.svp.tencent-cloud.com/0bf2z4abgaaa5uafx3ln5zqfbt6dcphqaeya.f10002.mp4?
+闪闪的红星,https://txmov2.a.kwimgs.com/bs3/video-hls/5227271844529132344_hlshd15.m3u8
+生财有道,https://txmov2.a.kwimgs.com/upic/2022/04/28/14/BMjAyMjA0MjgxNDU2NDNfMjE0MTE5MTMzN183MzA5ODY5NzU0NF8yXzM=_b_B1e03103282a87636496b7df4ea463247.mp4
+她俩和他俩,https://txmov2.a.kwimgs.com/upic/2022/05/09/11/BMjAyMjA1MDkxMTE0MzhfMjE0MTE5MTMzN183NDAxMDIyNzgzNV8yXzM=_b_B1ae5b362516d467771cd8de89ea0e5f0.mp4
 拳霸,https://vip.lz-cdn1.com/20220409/1428_2b0f74c0/index.m3u8
 拳霸2,https://vip.lz-cdn2.com/20220324/395_922dd57f/index.m3u8
-人肉叉烧包2天诛地灭,https://vip.lz-cdn1.com/20220529/6930_bbaf0f32/index.m3u8
-人鱼,http://cache.ott.fifavod.itv.cmvideo.cn/10014321772/10014321772.m3u8?
-人在囧途,https://hxf105.njc.svp.tencent-cloud.com/0bf2riaksaaadeajelvfhzpvbcwdvgfabkia.f10002.mp4?
-阮氏三雄,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101022806779647_hlsb.m3u8
-闪闪的红星,https://txmov2.a.kwimgs.com/bs3/video-hls/5227271844529132344_hlshd15.m3u8
-神鬼也高潮,https://hxf1128.gzc.svp.tencent-cloud.com//0bc3ziabqaaabqapj2ukcjqvbswdddfaagaa.f10002.mp4?
-神秘巨星,https://hxf1112.gzc.svp.tencent-cloud.com/0b2exmaayaaavianero5ffrfbo6dbs5qadaa.f10002.mp4?
-神奇女侠,https://hxf925.njc.svp.tencent-cloud.com/0bc3muaamaaaruagqvh5nnrfazodazsqabqa.f10002.mp4?
-生财有道,https://txmov2.a.kwimgs.com/upic/2022/04/28/14/BMjAyMjA0MjgxNDU2NDNfMjE0MTE5MTMzN183MzA5ODY5NzU0NF8yXzM=_b_B1e03103282a87636496b7df4ea463247.mp4
-生死时速,https://hxf1112.gzc.svp.tencent-cloud.com/0bc35qacyaaarmaikhfvpfqvb3gdftwaalaa.f10002.mp4?
-圣殿骑士最后战役,https://hxf1130.gzc.svp.tencent-cloud.com//0b78yyaaeaaaziac4m24jvqvbrwdaldaaaqa.f10002.mp4?
-圣殿骑士最后战役,https://hxf1130.gzc.svp.tencent-cloud.com//0bf2reaa4aaapaachzk4jnqvbcodb2eqadqa.f10002.mp4?
 圣珠,https://v8.dious.cc/20221128/3riucVkP/index.m3u8
-食神,https://cdn.zoubuting.com/20220522/06EtJbxn/index.m3u8
-她俩和他俩,https://txmov2.a.kwimgs.com/upic/2022/05/09/11/BMjAyMjA1MDkxMTE0MzhfMjE0MTE5MTMzN183NDAxMDIyNzgzNV8yXzM=_b_B1ae5b362516d467771cd8de89ea0e5f0.mp4
-泰囧,https://hxf105.njc.svp.tencent-cloud.com/0bf2u4abqaaaaaaf5svfr5pvbj6ddctqagaa.f10002.mp4?
-特种部队1眼镜蛇的崛起,https://hxf1112.gzc.svp.tencent-cloud.com/0bc3piaawaaa2iahszwc5frfa6wdbn5aacya.f10002.mp4?
-天盛长歌,https://v5.cdtlas.com/20220623/YDL7qDdo/hls/index.m3u8
-天书奇谭,https://txmov2.a.kwimgs.com/upic/2021/09/11/22/BMjAyMTA5MTEyMjAwNDRfMTI0MzE0NjMyOF81NzAwNDk1ODY1MV8yXzM=_hd15_B30ff4255569c9cd057d3b43dd8e77095.mp4
-未来水世界,https://hxf930.njc.svp.tencent-cloud.com/0bc3vqaaiaaapuaofprphjrvblgdaswaabaa.f10002.mp4?
-我的警察,http://mmmitv.top/test/kdy.php?id=185322.html&tag=video&type=dinary&opt=0
 我是女特警,https://vip.lz-cdn1.com/20221025/17741_e3a3e29d/index.m3u8
 我是证人,https://txmov2.a.kwimgs.com/bs3/video-hls/5244441826361281087_hlshd15.m3u8
-无惧之爱,http://mmmitv.top/test/kdy.php?id=185340.html&tag=video&type=dinary&opt=0
-无人区未删减版,https://hxf102.njc.svp.tencent-cloud.com/0bf2biaacaaasqadu257bbpfacwdaefaaaia.f10002.mp4?
-五路追杀令,https://hxf115.gzc.svp.tencent-cloud.com/0b78x4aa2aaaauancgjtxbqfbp6dbw7qadia.f10002.mp4?
-五路追杀令2,https://hxf115.gzc.svp.tencent-cloud.com/0bf2r4abwaaa6iapwojtuzqfbd6ddohqagya.f10002.mp4?
 午夜43路,https://txmov2.a.kwimgs.com/upic/2021/09/28/22/BMjAyMTA5MjgyMjM2NTJfMTI0MzE0NjMyOF81ODAwOTA0NzQyNV8yXzM=_b_Bf914d7c0f0f2867aebc49ae6986bffcf.mp4
 午夜出租车,https://txmov2.a.kwimgs.com/upic/2021/08/16/17/BMjAyMTA4MTYxNzI3MTlfMTI0MzE0NjMyOF81NTM2NjM3MzkzNV8yXzM=_b_B4ac8d02310b93305215c496928a6f8e6.mp4
 午夜惊魂路,https://txmov2.a.kwimgs.com/upic/2021/09/18/20/BMjAyMTA5MTgyMDM0MzJfMTI0MzE0NjMyOF81NzM4MjIzOTQ2M18yXzM=_hd15_B4cdd5e1ecd0e8be46e16ae51e94aee0d.mp4
-武林圣火令,https://hxf928.njc.svp.tencent-cloud.com/0bc34aabkaaau4akajeh7bqvbygdcxqaafia.f10003.mp4?
-武侠七公主,https://hxf1130.gzc.svp.tencent-cloud.com//0bc3lqaaaaaayqajdcd4yjrvaxgdaboaaaaa.f10004.mp4?
-侠盗高飞,https://hxf928.njc.svp.tencent-cloud.com/0bf2hmagyaaayeabytjb3fqvao6dnq5qa3aa.f10003.mp4?
-侠盗王子罗宾汉,https://hxf922.njc.svp.tencent-cloud.com/0bc33eaa6aaan4afdtikmbrvbwodb7mqadya.f10002.mp4?
-小龙女2022,http://cache.ott.fifavod.itv.cmvideo.cn/10014362397/10014362397.m3u8?
-新婚第一夜未删减版,https://hxf1128.gzc.svp.tencent-cloud.com//0bc3muaccaaa7eabq2urzvqvazodefsqaiia.f10003.mp4?
-新片沙漠伏击,https://hxf105.njc.svp.tencent-cloud.com/0bc3faacaaaa7eam4ij265rvakgdeauaaiaa.f10002.mp4?
-新上海滩,https://txmov2.a.kwimgs.com/upic/2021/12/28/15/BMjAyMTEyMjgxNTAwMjZfNDAzMDAxOTlfNjM2NzkwMDAxMTNfMF8z_b_Bcc430667a27fbeb6e41a7c69291fab1f.mp4
-秀女禁片,https://hxf115.gzc.svp.tencent-cloud.com/0bf2iaagsaaaouaj7dzxpfpvaqgdnfaaa2ia.f10003.mp4?
-一周的朋友,https://txmov2.a.kwimgs.com/bs3/video-hls/5190961603467833164_hlshd15.m3u8
-银河系漫游指南,https://hxf119.gzc.svp.tencent-cloud.com/0bc3auafyaaakyaegksqfrrvabodlqcqaxaa.f10002.mp4?
-隐入尘烟,https://m3u8.zhisongip.com:38741/video/dc4fbd1e954be9b5bb88eba9e52c86a9.m3u8
-隐入尘烟,https://wolongzywcdn3.com:65/20220809/Qp1jma9E/index.m3u8
-印尼黑帮,https://hxf1022.gzc.svp.tencent-cloud.com/0bc3piadiaaa6ealbxzptrrva6wdgr5aanaa.f10102.mp4
-鹰王1977,https://hxf102.njc.svp.tencent-cloud.com/0b2e6aabiaaacmabv4rjufrvb4gdctyaafaa.f10002.mp4?
-影视精典边城浪子,https://v.gsuus.com/play/oeEWP0b0/index.m3u8?m3u8key=14666bbd0d1774783855fae02eacf4c8&v=0.9847905342599683
-詹妮弗的肉体,https://hxf.gzc.svp.tencent-cloud.com/0bf2jiabaaaa5eagj52tzzqfaswdcbfaaeaa.f10002.mp4?
-珍珠港,https://hxf930.njc.svp.tencent-cloud.com/0b2eeuabaaaaeeaayyjvhjrvajodcasqaeaa.f10002.mp4?
-蜘蛛侠2,https://hxf930.njc.svp.tencent-cloud.com/0bc32uacgaaaqmadmjzlrjrvbvodepkqaiya.f10002.mp4?
-致命黑兰,https://hxf922.njc.svp.tencent-cloud.com/0bc37qabcaaaeiae7rinmnrvb7gdch6aaeia.f10002.mp4?
+
 
 👉其他频道,#genre#
 CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
