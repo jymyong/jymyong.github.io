@@ -94,7 +94,7 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
 凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
 
-👉其他频道,#genre#
+🏛️其他频道,#genre#
 CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CGTN,http://01e117.netsite.cc/proxy/1464174866/1464174866.m3u8
@@ -174,7 +174,7 @@ CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
 午夜出租车,https://txmov2.a.kwimgs.com/upic/2021/08/16/17/BMjAyMTA4MTYxNzI3MTlfMTI0MzE0NjMyOF81NTM2NjM3MzkzNV8yXzM=_b_B4ac8d02310b93305215c496928a6f8e6.mp4
 午夜惊魂路,https://txmov2.a.kwimgs.com/upic/2021/09/18/20/BMjAyMTA5MTgyMDM0MzJfMTI0MzE0NjMyOF81NzM4MjIzOTQ2M18yXzM=_hd15_B4cdd5e1ecd0e8be46e16ae51e94aee0d.mp4
 
-📛春晚小品,#genre#
+📽春晚小品,#genre#
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
 幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
