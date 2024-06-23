@@ -2,60 +2,97 @@
 📺央视卫视,#genre#
 CCTV-1,http://01e117.netsite.cc/proxy/1964731068/1964731068.m3u8
 CCTV-1,http://4747d9.netsite.cc/proxy/1964731068/1964731068.m3u8
+CCTV-1,http://f1d944.netsite.cc/proxy/1964731068/1964731068.m3u8
 
 CCTV-2,http://01e117.netsite.cc/proxy/1486446687/1486446687.m3u8
+CCTV-2,http://2d131b.netsite.cc/proxy/1486446687/1486446687.m3u8
 CCTV-2,http://4747d9.netsite.cc/proxy/1486446687/1486446687.m3u8
+CCTV-2,http://f1d944.netsite.cc/proxy/1486446687/1486446687.m3u8
 
 CCTV-3,http://01e117.netsite.cc/proxy/781829366/781829366.m3u8
+CCTV-3,http://2d131b.netsite.cc/proxy/781829366/781829366.m3u8
 CCTV-3,http://4747d9.netsite.cc/proxy/781829366/781829366.m3u8
+CCTV-3,http://f1d944.netsite.cc/proxy/781829366/781829366.m3u8
 
 CCTV-4,http://01e117.netsite.cc/proxy/488588922/488588922.m3u8
+CCTV-4,http://2d131b.netsite.cc/proxy/488588922/488588922.m3u8
 CCTV-4,http://4747d9.netsite.cc/proxy/488588922/488588922.m3u8
+CCTV-4,http://f1d944.netsite.cc/proxy/488588922/488588922.m3u8
 
 CCTV-5,http://01e117.netsite.cc/proxy/1233541493/1233541493.m3u8
+CCTV-5,http://2d131b.netsite.cc/proxy/1233541493/1233541493.m3u8
 CCTV-5,http://4747d9.netsite.cc/proxy/1233541493/1233541493.m3u8
 
+
 CCTV-5+,http://01e117.netsite.cc/proxy/1327890911/1327890911.m3u8
+CCTV-5+,http://2d131b.netsite.cc/proxy/1327890911/1327890911.m3u8
 CCTV-5+,http://4747d9.netsite.cc/proxy/1327890911/1327890911.m3u8
+CCTV-5+,http://f1d944.netsite.cc/proxy/1327890911/1327890911.m3u8
 
 CCTV-6,http://01e117.netsite.cc/proxy/1275265590/1275265590.m3u8
+CCTV-6,http://2d131b.netsite.cc/proxy/1275265590/1275265590.m3u8
 CCTV-6,http://4747d9.netsite.cc/proxy/1275265590/1275265590.m3u8
+CCTV-6,http://f1d944.netsite.cc/proxy/1275265590/1275265590.m3u8
 
 CCTV-7,http://01e117.netsite.cc/proxy/220822188/220822188.m3u8
+CCTV-7,http://2d131b.netsite.cc/proxy/220822188/220822188.m3u8
 CCTV-7,http://4747d9.netsite.cc/proxy/220822188/220822188.m3u8
+CCTV-7,http://f1d944.netsite.cc/proxy/220822188/220822188.m3u8
 
 CCTV-8,http://01e117.netsite.cc/proxy/366510833/366510833.m3u8
+CCTV-8,http://2d131b.netsite.cc/proxy/366510833/366510833.m3u8
 CCTV-8,http://4747d9.netsite.cc/proxy/366510833/366510833.m3u8
+CCTV-8,http://f1d944.netsite.cc/proxy/366510833/366510833.m3u8
 
 CCTV-9,http://01e117.netsite.cc/proxy/1618579230/1618579230.m3u8
+CCTV-9,http://2d131b.netsite.cc/proxy/1618579230/1618579230.m3u8
 CCTV-9,http://4747d9.netsite.cc/proxy/1618579230/1618579230.m3u8
+CCTV-9,http://f1d944.netsite.cc/proxy/1618579230/1618579230.m3u8
 
 CCTV-10,http://01e117.netsite.cc/proxy/1288910059/1288910059.m3u8
+CCTV-10,http://2d131b.netsite.cc/proxy/1288910059/1288910059.m3u8
 CCTV-10,http://4747d9.netsite.cc/proxy/1288910059/1288910059.m3u8
+CCTV-10,http://f1d944.netsite.cc/proxy/1288910059/1288910059.m3u8
 
 CCTV-11,http://01e117.netsite.cc/proxy/1263246901/1263246901.m3u8
+CCTV-11,http://2d131b.netsite.cc/proxy/1263246901/1263246901.m3u8
 CCTV-11,http://4747d9.netsite.cc/proxy/1263246901/1263246901.m3u8
+CCTV-11,http://f1d944.netsite.cc/proxy/1263246901/1263246901.m3u8
 
 CCTV-12,http://01e117.netsite.cc/proxy/479563435/479563435.m3u8
+CCTV-12,http://2d131b.netsite.cc/proxy/479563435/479563435.m3u8
 CCTV-12,http://4747d9.netsite.cc/proxy/479563435/479563435.m3u8
+CCTV-12,http://f1d944.netsite.cc/proxy/479563435/479563435.m3u8
 
 CCTV-13,http://01e117.netsite.cc/proxy/1100148851/1100148851.m3u8
+CCTV-13,http://2d131b.netsite.cc/proxy/1100148851/1100148851.m3u8
 CCTV-13,http://4747d9.netsite.cc/proxy/1100148851/1100148851.m3u8
+CCTV-13,http://f1d944.netsite.cc/proxy/1100148851/1100148851.m3u8
 
 CCTV-14,http://01e117.netsite.cc/proxy/329783189/329783189.m3u8
+CCTV-14,http://2d131b.netsite.cc/proxy/329783189/329783189.m3u8
 CCTV-14,http://4747d9.netsite.cc/proxy/329783189/329783189.m3u8
+CCTV-14,http://f1d944.netsite.cc/proxy/329783189/329783189.m3u8
 
 CCTV-15,http://01e117.netsite.cc/proxy/518544399/518544399.m3u8
+CCTV-15,http://2d131b.netsite.cc/proxy/518544399/518544399.m3u8
 CCTV-15,http://4747d9.netsite.cc/proxy/518544399/518544399.m3u8
+CCTV-15,http://f1d944.netsite.cc/proxy/518544399/518544399.m3u8
 
 CCTV-16,http://01e117.netsite.cc/proxy/1213181202/1213181202.m3u8
+CCTV-16,http://2d131b.netsite.cc/proxy/1213181202/1213181202.m3u8
 CCTV-16,http://4747d9.netsite.cc/proxy/1213181202/1213181202.m3u8
+CCTV-16,http://f1d944.netsite.cc/proxy/1213181202/1213181202.m3u8
 
 CCTV-17,http://01e117.netsite.cc/proxy/642661480/642661480.m3u8
+CCTV-17,http://2d131b.netsite.cc/proxy/642661480/642661480.m3u8
 CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
+CCTV-17,http://f1d944.netsite.cc/proxy/642661480/642661480.m3u8
 
 安徽卫视,http://01e117.netsite.cc/proxy/1817490980/1817490980.m3u8
+安徽卫视,http://2d131b.netsite.cc/proxy/1817490980/1817490980.m3u8
 安徽卫视,http://4747d9.netsite.cc/proxy/1817490980/1817490980.m3u8
+安徽卫视,http://f1d944.netsite.cc/proxy/1817490980/1817490980.m3u8
 
 北京卫视,http://01e117.netsite.cc/proxy/105545939/105545939.m3u8
 江苏卫视,http://01e117.netsite.cc/proxy/1924965376/1924965376.m3u8
@@ -89,14 +126,33 @@ CCTV-17,http://4747d9.netsite.cc/proxy/642661480/642661480.m3u8
 宁夏卫视,http://01e117.netsite.cc/proxy/1558349983/1558349983.m3u8
 三沙卫视,http://01e117.netsite.cc/proxy/1337100319/1337100319.m3u8
 青海卫视,http://01e117.netsite.cc/proxy/1152127449/1152127449.m3u8
+
 凤凰卫视,http://01e117.netsite.cc/proxy/1650326537/1650326537.m3u8
-凤凰卫视,http://01e117.netsite.cc/proxy/1650326537/1650326537.m3u8
+凤凰卫视,http://2d131b.netsite.cc/proxy/1650326537/1650326537.m3u8
+凤凰卫视,http://1eec15.netsite.cc/proxy/1650326537/1650326537.m3u8
+
 凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
-凤凰中文,http://01e117.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://2d131b.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://1eec15.netsite.cc/proxy/1846789161/1846789161.m3u8
 
 🏛️其他频道,#genre#
 CCTV-4k,http://01e117.netsite.cc/proxy/968404657/968404657.m3u8
+CCTV-4k,http://2d131b.netsite.cc/proxy/968404657/968404657.m3u8
+CCTV-4k,http://f1d944.netsite.cc/proxy/968404657/968404657.m3u8
+CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+
+BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+
+
+欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
+咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
 CGTN,http://01e117.netsite.cc/proxy/1464174866/1464174866.m3u8
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -108,8 +164,13 @@ CGTN俄语频道,http://01e117.netsite.cc/proxy/1081207990/1081207990.m3u8
 CGTN阿拉伯语频道,http://01e117.netsite.cc/proxy/1911119040/1911119040.m3u8
 CGTN西班牙语频道,http://01e117.netsite.cc/proxy/657032256/657032256.m3u8
 CGTN外语记录频道,http://01e117.netsite.cc/proxy/97135501/97135501.m3u8
+
 1905-电影网,http://01e117.netsite.cc/proxy/1747360543/1747360543.m3u8
+1905-电影网,http://2d131b.netsite.cc/proxy/1747360543/1747360543.m3u8
+
 咪咕体育,http://01e117.netsite.cc/proxy/1168525477/1168525477.m3u8
+咪咕体育,http://2d131b.netsite.cc/proxy/1168525477/1168525477.m3u8
+
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 茶频道,http://01e117.netsite.cc/proxy/1322311734/1322311734.m3u8
