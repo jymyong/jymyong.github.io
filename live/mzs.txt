@@ -448,9 +448,16 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 牛群冯巩我的儿子,https://vdse.bdstatic.com//f27179e048a85dd2f00d16f6a13ac370.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T08%3A43%3A23Z%2F-1%2Fhost%2F026eb7ddc17de37a053903ceb90523b0265d8e5c7ed8eb5b20f5cc0de186f27c
 牛群冯巩两个弄潮儿,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
 要条件,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
-没那么简单,https://vali-ugc.cp31.ott.cibntv.net/6977B0E896A4C72227F3A58EF/03000A0300602554C3A7C4443E790D99AD1B55-2BB1-4EC9-8305-D07B328ACBA6.mp4?ccode=0512&duration=393&expire=18000&psid=e149d9d3a844e568bff89d9d631a288d41346&ups_client_netip=99230084&ups_ts=1719130859&ups_userid=&utid=Cp47Hk%2FTm34CAXSTOkOJpLmc&vid=XNTEwMjcxMTc0MA%3D%3D&vkey=Bf3ce06cd9c5b8859980839eb0476167a&eo=0&t=6f753a876701608&cug=1&fms=8f576b9495f6b6de&tr=1100&le=361c277fdd482c4d2fc7917882d27b8e&ckt=1&m_onoff=0&rid=20000000632501B51A7C4541DB2B2113A27B733702000000&type=mp4sd&bc=2&dre=u145&si=611&dst=1&app_ver=1.10.1.1
-智取威虎山,https://vdept3.bdstatic.com/mda-qbg1i6zxvuuqx0fi/360p/h264/1708131969483057227/mda-qbg1i6zxvuuqx0fi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1719142471-0-0-051adbe73a78d84053619ed9924bf30b&bcevod_channel=searchbox_feed&cr=0&cd=0&pd=1&pt=3&logid=2071812059&vid=5988941700331041395&klogid=2071812059&abtest=
-新着急,https://vdept3.bdstatic.com/mda-qcicy12dx3ef7qnf/cae_h264/1711015973668875913/mda-qcicy12dx3ef7qnf.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1719142660-0-0-097a987ee126185971df9edfd76b536b&bcevod_channel=searchbox_feed&cr=0&cd=0&pd=1&pt=3&logid=2260415086&vid=8830006906421169672&klogid=2260415086&abtest=
+
+🐮2023小品相声大会,#genre#
+20231117,https://v.cdnlz13.com/20231121/20401_a27ae243/index.m3u8
+20231124,https://v.cdnlz13.com/20231125/20640_6ba0a473/index.m3u8
+20231201,https://v.cdnlz13.com/20231202/21007_ed7c7c89/index.m3u8
+20231208,https://v.cdnlz13.com/20231209/21332_e0a5cb94/index.m3u8
+20231215,https://v.cdnlz13.com/20231217/21671_5fa0fa4d/index.m3u8
+20231229,https://v.cdnlz4.com/20240101/26495_bd647acb/index.m3u8
+20240105,https://v.cdnlz18.com/20240107/8914_aeafad1e/index.m3u8
+20240112,https://v.cdnlz13.com/20240113/22934_ae3882c4/index.m3u8
 
 🐼Jan's Movie,#genre#
 最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
@@ -464,16 +471,6 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 大吃一周08,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/d30831c7adc1/playlist.m3u8
 大吃一周09,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/91b5265a6856/playlist.m3u8
 大吃一周10,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/a138d1f02b0e/playlist.m3u8
-
-🐮2023小品相声大会,#genre#
-20231117,https://v.cdnlz13.com/20231121/20401_a27ae243/index.m3u8
-20231124,https://v.cdnlz13.com/20231125/20640_6ba0a473/index.m3u8
-20231201,https://v.cdnlz13.com/20231202/21007_ed7c7c89/index.m3u8
-20231208,https://v.cdnlz13.com/20231209/21332_e0a5cb94/index.m3u8
-20231215,https://v.cdnlz13.com/20231217/21671_5fa0fa4d/index.m3u8
-20231229,https://v.cdnlz4.com/20240101/26495_bd647acb/index.m3u8
-20240105,https://v.cdnlz18.com/20240107/8914_aeafad1e/index.m3u8
-20240112,https://v.cdnlz13.com/20240113/22934_ae3882c4/index.m3u8
 
 📛庆余年第二季,#genre#
 01集,https://super.ffzy-online6.com/20240516/31219_2757ba53/2000k/hls/index.m3u8
