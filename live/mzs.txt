@@ -476,8 +476,18 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 20240105,https://v.cdnlz18.com/20240107/8914_aeafad1e/index.m3u8
 20240112,https://v.cdnlz13.com/20240113/22934_ae3882c4/index.m3u8
 
-🐼Jan爱看的电影,#genre#
+Jan爱看的电影,#genre#
 最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
+大吃一周01,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/adeeff49970e/playlist.m3u8
+大吃一周02,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/7ebfb4f1523e/playlist.m3u8
+大吃一周03,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/eacaf5619b01/playlist.m3u8
+大吃一周04,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/1bbec4503175/playlist.m3u8
+大吃一周05,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/8c9b99a7f443/playlist.m3u8
+大吃一周06,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/ad5d7d5eb7b3/playlist.m3u8
+大吃一周07,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/42408df2a8f3/playlist.m3u8
+大吃一周08,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/d30831c7adc1/playlist.m3u8
+大吃一周09,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/91b5265a6856/playlist.m3u8
+大吃一周10,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2023-12-23/24/fbf288f0480d/a138d1f02b0e/playlist.m3u8
 
 📛庆余年第二季,#genre#
 01集,https://super.ffzy-online6.com/20240516/31219_2757ba53/2000k/hls/index.m3u8
