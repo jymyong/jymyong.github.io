@@ -403,8 +403,6 @@ CCTV17,http://101.18.27.219:808/hls/16/index.m3u8
 CCTV17,http://121.19.134.8:808/hls/16/index.m3u8
 CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 
-
-
 🎬轮播电影,#genre#
 4K电影,http://allinone.netsite.cc/douyu/9249162
 华语电影1,http://allinone.netsite.cc/douyu/122402
@@ -531,6 +529,9 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 20231229,https://v.cdnlz4.com/20240101/26495_bd647acb/index.m3u8
 20240105,https://v.cdnlz18.com/20240107/8914_aeafad1e/index.m3u8
 20240112,https://v.cdnlz13.com/20240113/22934_ae3882c4/index.m3u8
+
+🐼Jan爱看的电影,#genre#
+最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
 
 📛庆余年第二季,#genre#
 01集,https://super.ffzy-online6.com/20240516/31219_2757ba53/2000k/hls/index.m3u8
