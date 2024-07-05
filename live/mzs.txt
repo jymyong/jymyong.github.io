@@ -452,7 +452,7 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 智取威虎山,https://vdept3.bdstatic.com/mda-qbg1i6zxvuuqx0fi/360p/h264/1708131969483057227/mda-qbg1i6zxvuuqx0fi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1719142471-0-0-051adbe73a78d84053619ed9924bf30b&bcevod_channel=searchbox_feed&cr=0&cd=0&pd=1&pt=3&logid=2071812059&vid=5988941700331041395&klogid=2071812059&abtest=
 新着急,https://vdept3.bdstatic.com/mda-qcicy12dx3ef7qnf/cae_h264/1711015973668875913/mda-qcicy12dx3ef7qnf.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1719142660-0-0-097a987ee126185971df9edfd76b536b&bcevod_channel=searchbox_feed&cr=0&cd=0&pd=1&pt=3&logid=2260415086&vid=8830006906421169672&klogid=2260415086&abtest=
 
-🐼一年一度喜剧大赛,#genre#
+🦌一年一度喜剧大赛,#genre#
 01集,https://play.xluuss.com/play/BeXOpwmd/index.m3u8
 02集,https://play.xluuss.com/play/Ddw478we/index.m3u8
 03集,https://play.xluuss.com/play/Xe0zDyXb/index.m3u8
