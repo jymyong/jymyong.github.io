@@ -2,6 +2,7 @@
 📺央视卫视,#genre#
 CCTV-1,http://2918ce.netsite.cc/proxy/1964731068/1964731068.m3u8
 CCTV-2,http://2918ce.netsite.cc/proxy/1486446687/1486446687.m3u8
+CCTV-3,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/1300.m3u8
 CCTV-4,http://2918ce.netsite.cc/proxy/488588922/488588922.m3u8
 CCTV-5,http://2918ce.netsite.cc/proxy/1233541493/1233541493.m3u8
 CCTV-5+,http://2918ce.netsite.cc/proxy/1327890911/1327890911.m3u8
