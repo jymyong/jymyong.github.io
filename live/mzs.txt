@@ -506,7 +506,7 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 猩球崛起1,https://107.163.169.90:11300/vods/hls/dhz/18/17428/24052521/822215/1920/index.m3u8?appId=kkdy&sign=27f572202ec4e4834329da8df30910d9&timestamp=1720677919
 猩球崛起2黎明之战,https://104.195.49.132:11301/data2/files/hls/dhz/25/24159/24062214/914152/1920/index.m3u8?appId=kkdy&sign=cb9131a27d43fe98a75ffd8f2c7cf917&timestamp=1720678001
 猩球崛起3终极之战,https://107.163.169.90:11300/vods/hls/dhz/18/17448/2405260/822814/1920/index.m3u8?appId=kkdy&sign=b5aa181a5156b5180787152d4d952c25&timestamp=1720678030
-猩球崛起4新世界,https://104.195.49.131:11301/data2/files/hls/dhz/16/15949/24070921/762749/1920/index.m3u8?appId=kkdy&sign=894b24ac7889afd0a6a0e68e3a319f0d&timestamp=1720677261
+猩球崛起4新世界,https://svipsvip.ffzy-online5.com/20240709/29755_fd61a19b/2000k/hls/mixed.m3u8
 王牌杀姬,https://vip.ffzy-online6.com/20240112/24654_7a3d5a1a/2000k/hls/index.m3u8
 触发警报 ,https://super.ffzy-online6.com/20240621/33442_66ad2b0c/2000k/hls/mixed.m3u8
 最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
