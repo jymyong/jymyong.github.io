@@ -516,6 +516,7 @@ CCTV17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 猩球崛起4新世界,https://v11.tlkqc.com/wjv11/202407/09/SQTzHprnna83/video/1000k_720/hls/index.m3u8
 决战猩球,https://vip.ffzy-play6.com/20221126/8553_c35d95eb/2000k/hls/mixed.m3u8
 黑夜迷踪,https://svip.high24-playback.com/20240718/1313_2cc34c0b/2000k/hls/mixed.m3u8
+九龙城寨之围城,https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ocpASMvgAZaG77gMbj8CDYUwMEIJQ8F7exnefD?filename=1.mp4
 王牌杀姬,https://vip.ffzy-online6.com/20240112/24654_7a3d5a1a/2000k/hls/index.m3u8
 触发警报 ,https://super.ffzy-online6.com/20240621/33442_66ad2b0c/2000k/hls/mixed.m3u8
 最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
