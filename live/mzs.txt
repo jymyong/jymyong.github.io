@@ -30,6 +30,7 @@ CCTV-17,http://223.10.33.238:8082/udp/239.1.1.23:8023
 CCTV-5,http://180.158.227.193:58888/udp/239.45.1.69:5140$Multicast IP
 CCTV-5,http://123.145.43.197:8002/udp/225.0.4.143:7980$Multicast IP
 CCTV-5+,http://123.145.43.197:8002/udp/225.0.4.73:7980$Multicast IP
+CCTV-5+,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv5hd8m/8000000/mnf.m3u8$Multicast IP
 安徽卫视,http://180.158.227.193:58888/udp/239.45.1.120:5140$Multicast IP
 
 安徽卫视,http://182.149.107.50:8888/udp/239.93.1.106:5140
