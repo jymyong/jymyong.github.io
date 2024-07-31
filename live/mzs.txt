@@ -7,6 +7,7 @@ CCTV-3,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/p
 CCTV-4,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv4hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-5,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv58m/8000000/mnf.m3u8$tonkiang
 CCTV-5+,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv5hd8m/8000000/mnf.m3u8$tonkiang
+CCTV-16,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv16hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-6,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv6hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-7,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv7hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-8,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv8hd8m/8000000/mnf.m3u8$tonkiang
@@ -17,7 +18,6 @@ CCTV-12,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/
 CCTV-13,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv13hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-14,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv14hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-15,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv15hd8m/8000000/mnf.m3u8$tonkiang
-CCTV-16,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv16hd8m/8000000/mnf.m3u8$tonkiang
 CCTV-17,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv17hd8m/8000000/mnf.m3u8$tonkiang
 安徽卫视,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/ahwshd8m/8000000/mnf.m3u8$tonkiang
 
@@ -49,9 +49,20 @@ CCTV-16,http://223.10.33.238:8082/udp/239.1.1.122:8122
 CCTV-17,http://182.149.107.50:8888/udp/239.93.0.92:5140
 CCTV-17,http://223.10.33.238:8082/udp/239.1.1.23:8023
 
+CCTV-1,http://125.113.167.201:8888/udp/233.50.200.99:5140$Multicast IP
+CCTV-1,http://125.113.167.201:8888/udp/233.50.200.130:5140$Multicast IP
+CCTV-1,http://125.113.167.201:8888/udp/233.50.200.143:5140$Multicast IP
+CCTV-1,http://60.177.16.69:4022/udp/233.50.200.130:5140$Multicast IP
 CCTV-5,http://180.158.227.193:58888/udp/239.45.1.69:5140$Multicast IP
 CCTV-5,http://123.145.43.197:8002/udp/225.0.4.143:7980$Multicast IP
 CCTV-5+,http://123.145.43.197:8002/udp/225.0.4.73:7980$Multicast IP
+CCTV-5,http://60.177.16.69:4022/udp/233.50.201.197:5140$Multicast IP
+CCTV-5+,http://60.177.16.69:4022/udp/233.50.201.220:5140$Multicast IP
+CCTV-16http://60.177.16.69:4022/udp/233.50.201.192:5140$Multicast IP
+CCTV-16,http://125.113.167.201:8888/udp/233.50.201.192:5140$Multicast IP
+CCTV-16,http://125.113.167.201:8888/udp/233.50.200.112:5140$Multicast IP
+CCTV-16,http://125.113.167.201:8888/udp/233.50.201.63:5140$Multicast IP
+
 
 安徽卫视,http://180.158.227.193:58888/udp/239.45.1.120:5140$Multicast IP
 
