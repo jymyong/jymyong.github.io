@@ -505,6 +505,9 @@ CCTV-17,http://61.158.166.45:1301/haiouysp678.php?id=cctv17
 猩球崛起4新世界,https://v11.tlkqc.com/wjv11/202407/09/SQTzHprnna83/video/1000k_720/hls/index.m3u8
 猩球崛起4新世界,https://m3u8.hmrvideo.com/play/c28e77c8c6ad4935a5f3177aa198cbde.m3u8
 决战猩球,https://vip.ffzy-play6.com/20221126/8553_c35d95eb/2000k/hls/mixed.m3u8
+谈判专家,https://svip.high24-playback.com/20240719/1337_b3ecadb7/2000k/hls/mixed.m3u8$BTNULL
+谈判专家,https://svipsvip.ffzy-online5.com/20240719/30265_2f3999ee/2000k/hls/mixed.m3u8$SUYINGTV
+谈判专家,https://172.80.104.70:11301/data2/files/hls/dhz/29/28653/24071921/1020321/1920/index.m3u8?appId=kkdy&sign=528d4f5cebee80d3834e7088c387d7c2&timestamp=1722496072$KEKE
 黑夜迷踪,https://svip.high24-playback.com/20240718/1313_2cc34c0b/2000k/hls/mixed.m3u8
 九龙城寨之围城,https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ocpASMvgAZaG77gMbj8CDYUwMEIJQ8F7exnefD?filename=1.mp4
 王牌杀姬,https://vip.ffzy-online6.com/20240112/24654_7a3d5a1a/2000k/hls/index.m3u8
