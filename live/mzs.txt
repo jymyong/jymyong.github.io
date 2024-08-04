@@ -86,6 +86,25 @@ CCTV-16,http://123.158.41.117:8888/rtp/233.50.201.63:5140$浙江联通
 CCTV-17,http://123.158.41.117:8888/rtp/233.50.201.35:5140$浙江联通
 安徽卫视,http://123.158.41.117:8888/rtp/233.50.201.113:5140$浙江联通
 
+CCTV-1,http://144.7.38.134:808/hls/1/index.m3u8$河北电信Hotel
+CCTV-2,http://144.7.38.134:808/hls/2/index.m3u8$河北电信Hotel
+CCTV-3,http://144.7.38.134:808/hls/75/index.m3u8$河北电信Hotel
+CCTV-4,http://144.7.38.134:808/hls/4/index.m3u8$河北电信Hotel
+CCTV-5,http://144.7.38.134:808/hls/78/index.m3u8$河北电信Hotel
+CCTV-6,http://144.7.38.134:808/hls/76/index.m3u8$河北电信Hotel
+CCTV-7,http://144.7.38.134:808/hls/7/index.m3u8$河北电信Hotel
+CCTV-8,http://144.7.38.134:808/hls/77/index.m3u8$河北电信Hotel
+CCTV-9,http://144.7.38.134:808/hls/9/index.m3u8$河北电信Hotel
+CCTV-10,http://144.7.38.134:808/hls/10/index.m3u8$河北电信Hotel
+CCTV-11,http://144.7.38.134:808/hls/11/index.m3u8$河北电信Hotel
+CCTV-12,http://144.7.38.134:808/hls/12/index.m3u8$河北电信Hotel
+CCTV-13,http://144.7.38.134:808/hls/13/index.m3u8$河北电信Hotel
+CCTV-14,http://144.7.38.134:808/hls/14/index.m3u8$河北电信Hotel
+CCTV-15,http://144.7.38.134:808/hls/15/index.m3u8$河北电信Hotel
+CCTV-16,http://144.7.38.134:808/hls/666/index.m3u8$河北电信Hotel
+CCTV-17,http://144.7.38.134:808/hls/93/index.m3u8$河北电信Hotel
+安徽卫视,http://144.7.38.134:808/hls/30/index.m3u8$河北电信Hotel
+
 CCTV-4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8$tonkiang
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
