@@ -106,6 +106,7 @@ CCTV-17,http://144.7.38.134:808/hls/93/index.m3u8$河北电信Hotel
 安徽卫视,http://144.7.38.134:808/hls/30/index.m3u8$河北电信Hotel
 
 CCTV-4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8$tonkiang
+CCTV-4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
