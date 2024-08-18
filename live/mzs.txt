@@ -341,6 +341,9 @@ CCTV-17,http://219.147.200.9:18080/newlive/live/hls/17/live.m3u8
 王牌杀姬,https://vip.ffzy-online6.com/20240112/24654_7a3d5a1a/2000k/hls/index.m3u8
 触发警报 ,https://super.ffzy-online6.com/20240621/33442_66ad2b0c/2000k/hls/mixed.m3u8
 最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
+同盟,https://v.cdnlz12.com/20240817/16462_5bf888f5/2000k/hls/mixed.m3u8
+同盟,https://v10.tlkqc.com/wjv10/202408/16/2dPBhQweN482/video/index.m3u8
+同盟,https://play.xluuss.com/play/zbqvYRpd/index.m3u8
 小小恶信件,https://hn.bfvvs.com/play/qaQz5E9b/index.m3u8
 大吃一周01,https://leshiyuncdn.36s.top/20240519/1nZmWXx2/2000kb/hls/index.m3u8                       
 大吃一周02,https://leshiyuncdn.36s.top/20240519/EmN6Adj0/2000kb/hls/index.m3u8    
