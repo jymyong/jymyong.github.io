@@ -401,14 +401,6 @@ CCTV-17,http://219.147.200.9:18080/newlive/live/hls/17/live.m3u8
 35集,https://super.ffzy-online6.com/20240530/32196_4ff67cc9/2000k/hls/index.m3u8
 36集,https://super.ffzy-online6.com/20240530/32195_bfd9ae29/2000k/hls/index.m3u8
 
-🔥寄生兽灰色部队,#genre#
-寄生兽灰色部队（01集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC01%E9%9B%86/index.m3u8
-寄生兽灰色部队（02集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC02%E9%9B%86/index.m3u8
-寄生兽灰色部队（03集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC03%E9%9B%86/index.m3u8
-寄生兽灰色部队（04集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC04%E9%9B%86/index.m3u8
-寄生兽灰色部队（05集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC05%E9%9B%86/index.m3u8
-寄生兽灰色部队（06集）,https://s5.bfengbf.com/video/jishengshouhuisebudui/%E7%AC%AC06%E9%9B%86/index.m3u8
-
 📡IPV6频道,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -689,7 +681,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 
-🐦央视频道,#genre#
+🔥央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
