@@ -385,18 +385,18 @@ CCTV-17,http://219.147.200.9:18080/newlive/live/hls/17/live.m3u8
 猩球崛起4新世界,https://v11.tlkqc.com/wjv11/202407/09/SQTzHprnna83/video/1000k_720/hls/index.m3u8
 猩球崛起4新世界,https://m3u8.hmrvideo.com/play/c28e77c8c6ad4935a5f3177aa198cbde.m3u8
 决战猩球,https://vip.ffzy-play6.com/20221126/8553_c35d95eb/2000k/hls/mixed.m3u8
-谈判专家,https://svip.high24-playback.com/20240719/1337_b3ecadb7/2000k/hls/mixed.m3u8$BTNULL
-谈判专家,https://svipsvip.ffzy-online5.com/20240719/30265_2f3999ee/2000k/hls/mixed.m3u8$SUYINGTV
-谈判专家,https://172.80.104.70:11301/data2/files/hls/dhz/29/28653/24071921/1020321/1920/index.m3u8?appId=kkdy&sign=528d4f5cebee80d3834e7088c387d7c2&timestamp=1722496072$KEKE
-黑夜迷踪,https://svip.high24-playback.com/20240718/1313_2cc34c0b/2000k/hls/mixed.m3u8
-九龙城寨之围城,https://sf16-sg.larksuitecdn.com/obj/tos-alisg-ve-0051c001-sg/ocpASMvgAZaG77gMbj8CDYUwMEIJQ8F7exnefD?filename=1.mp4
 王牌杀姬,https://vip.ffzy-online6.com/20240112/24654_7a3d5a1a/2000k/hls/index.m3u8
-触发警报 ,https://super.ffzy-online6.com/20240621/33442_66ad2b0c/2000k/hls/mixed.m3u8
-最后一周,https://vip.ffzy-play6.com/20221101/3283_09f27182/2000k/hls/mixed.m3u8
 同盟,https://v.cdnlz12.com/20240817/16462_5bf888f5/2000k/hls/mixed.m3u8
 同盟,https://v10.tlkqc.com/wjv10/202408/16/2dPBhQweN482/video/index.m3u8
 同盟,https://play.xluuss.com/play/zbqvYRpd/index.m3u8
-小小恶信件,https://hn.bfvvs.com/play/qaQz5E9b/index.m3u8
+小小恶信件,https://play.xluuss.com/play/5eVG0MXa/index.m3u8
+小小恶信件,https://v.cdnlz2.com/20240418/30100_39894c83/2000k/hls/mixed.m3u8
+同意,https://play.xluuss.com/play/kazGpE8b/index.m3u8
+同意,https://v.cdnlz12.com/20240814/16422_1df67b74/2000k/hls/mixed.m3u8
+因果报应,https://vv.jisuzyv.com/play/1aMrmOQb/index.m3u8
+因果报应,https://m3u.nikanba.live/share/80bd563afbef84a8f013040323dea85e.m3u8
+夺宝奇兵5-命运转盘,https://vip.kuaikan-cdn4.com/20240402/jCfnSNvR/1243kb/hls/index.m3u8
+夺宝奇兵5-命运转盘,https://ukzyvod3.ukubf5.com/20230829/xF8vQmk1/2000kb/hls/index.m3u8
 大吃一周01,https://leshiyuncdn.36s.top/20240519/1nZmWXx2/2000kb/hls/index.m3u8                       
 大吃一周02,https://leshiyuncdn.36s.top/20240519/EmN6Adj0/2000kb/hls/index.m3u8    
 大吃一周03,https://leshiyuncdn.36s.top/20240519/Zag9GM6M/2000kb/hls/index.m3u8
