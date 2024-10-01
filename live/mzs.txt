@@ -405,6 +405,12 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 20240112,https://v.cdnlz13.com/20240113/22934_ae3882c4/index.m3u8
 
 🐼Jan's Movie,#genre#
+蛇女传说E02-S01,https://hn.bfvvs.com/play/7ax3R1Ee/index.m3u8
+蛇女传说E02-S02,https://hn.bfvvs.com/play/ZdPxOg4d/index.m3u8
+蛇女传说E02-S03,https://hn.bfvvs.com/play/zbq3K6pe/index.m3u8
+蛇女传说E02-S04,https://hn.bfvvs.com/play/QdJo0zge/index.m3u8
+蛇女传说E02-S05,https://hn.bfvvs.com/play/mbk3AB6b/index.m3u8
+蛇女传说E02-S06,https://hn.bfvvs.com/play/kaz3WQyb/index.m3u8
 猩球崛起1,https://leshiyuncdn.36s.top/20240502/I74CrkEM/2000kb/hls/index.m3u8
 猩球崛起1,https://vip.ffzy-play7.com/20221229/10364_613713b0/2000k/hls/mixed.m3u8
 猩球崛起1,https://vip.lzcdn2.com/20220416/3502_a40c2ff5/1200k/hls/mixed.m3u8
