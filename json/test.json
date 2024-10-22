@@ -1,6 +1,26 @@
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718523928408/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "lives": [
+    {
+      "name": "多线ITV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1
+    },
+    {
+      "name": "高速V6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "嗅探",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "https://xhdwc.tk/xiutan.m3u"
+    }
+  ],
   "sites": [
     {
       "key": "豆瓣推荐",
@@ -29,7 +49,7 @@
     },
     {
       "key": "新6V",
-      "name": "🧲新6V┃磁力",
+      "name": "🌾新6V┃磁力",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -47,15 +67,6 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -66,6 +77,24 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://czzy.top/"
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🥚苹果┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "filterable": 1
     },
     {
       "key": "zxzj",
@@ -88,6 +117,81 @@
       "playerType": "1",
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    },
+    {
+      "key": "huohuo",
+      "name": "💥火火┃独家",
+      "type": 3,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "Bili",
+      "name": "🎒哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🐶汪汪┃独家",
+      "type": 3,
+      "api": "csp_Nongm"
+    },
+    {
+      "key": "csp_全网",
+      "name": "🐠全网┃独家",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "ext": "https://888.qkw1.cc/"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "🌞去广┃测试",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "国产动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "国产综艺"
+      ]
+    },
+    {
+      "key": "云播",
+      "name": "☁️云播┃影视",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "IK",
@@ -177,6 +281,17 @@
       ]
     },
     {
+      "key": "视觉",
+      "name": "👓视觉┃多线",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
       "key": "haiwaikan",
       "name": "😻海外看(墙外)",
       "type": 1,
@@ -219,17 +334,6 @@
       ]
     },
     {
-      "key": "视觉",
-      "name": "👓视觉┃多线",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
-    {
       "key": "csp_Nbys",
       "name": "🙀泥视频(墙外)",
       "type": 3,
@@ -240,7 +344,7 @@
     },
     {
       "key": "腐宅",
-      "name": "🛴腐宅",
+      "name": "📺腐宅",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -424,26 +528,6 @@
         "直 播",
         "更 新"
       ]
-    }
-  ],
-  "lives": [
-    {
-      "name": "多线ITV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-      "playerType": 1
-    },
-    {
-      "name": "高速V6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "嗅探",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
     }
   ]
 }
