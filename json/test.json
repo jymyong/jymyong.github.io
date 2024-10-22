@@ -47,6 +47,15 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
