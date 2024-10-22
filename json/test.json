@@ -210,26 +210,6 @@
       ]
     },
     {
-      "key": "csp_Nbys",
-      "name": "🙀泥视频(墙外)",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🛴腐宅",
-      "name": "腐宅",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-    },
-    {
       "key": "视觉",
       "name": "👓视觉┃多线",
       "type": 3,
@@ -239,6 +219,26 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "csp_Nbys",
+      "name": "🙀泥视频(墙外)",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "腐宅",
+      "name": "🛴腐宅",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
     },
     {
       "key": "cc",
