@@ -24,7 +24,7 @@
     "sites": [
         {
             "key": "豆瓣推荐",
-            "name": "🌕jsyfhome推荐",
+            "name": "🌕永芬推荐",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -119,13 +119,6 @@
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
-            "key": "huohuo",
-            "name": "💥火火┃独家",
-            "type": 3,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_SaoHuo"
-        },
-        {
             "key": "Bili",
             "name": "🎒哔哔┃合集",
             "type": 3,
@@ -148,19 +141,6 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "Lib",
-            "name": "立播┃秒播",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
-            }
         },
         {
             "key": "MV",
@@ -194,19 +174,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_农民",
-            "name": "🐶汪汪┃独家",
-            "type": 3,
-            "api": "csp_Nongm"
-        },
-        {
-            "key": "csp_全网",
-            "name": "🐠全网┃独家",
-            "type": 3,
-            "api": "csp_Quanwk",
-            "ext": "https://888.qkw1.cc/"
-        },
-        {
             "key": "蚂蚁",
             "name": "🌞去广┃测试",
             "type": 1,
@@ -237,15 +204,6 @@
                 "奇幻片",
                 "国产综艺"
             ]
-        },
-        {
-            "key": "云播",
-            "name": "☁️云播┃影视",
-            "type": 3,
-            "api": "csp_Tvyb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "IK",
@@ -461,6 +419,48 @@
             "name": "🙀泥视频(墙外)",
             "type": 3,
             "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "huohuo",
+            "name": "💥火火┃独家",
+            "type": 3,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_SaoHuo"
+        },
+        {
+            "key": "Lib",
+            "name": "立播┃秒播",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "csp_农民",
+            "name": "🐶汪汪┃独家",
+            "type": 3,
+            "api": "csp_Nongm"
+        },
+        {
+            "key": "csp_全网",
+            "name": "🐠全网┃独家",
+            "type": 3,
+            "api": "csp_Quanwk",
+            "ext": "https://888.qkw1.cc/"
+        },
+        {
+            "key": "云播",
+            "name": "☁️云播┃影视",
+            "type": 3,
+            "api": "csp_Tvyb",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
