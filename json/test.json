@@ -462,14 +462,47 @@
         },
        {
             "key": "观影",
-            "name": "观影┃无广",
+            "name": "观影00┃无广",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://www.gying.in/s/ajax",
+            "api": "https://www.gying.in/static/file/css/style-e5ca990.css",
             "ext": "https://www.gying.in/s/ajax"
+        },
+       {
+            "key": "观影",
+            "name": "观影01┃无广",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://www.gying.in/static/file/js/run-dcdce55.js",
+            "ext": "https://www.gying.in/s/ajax"
+        },
+       {
+            "key": "观影",
+            "name": "观影02无广",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://www.gying.in/static/file/js/globals-facf89c.js",
+            "ext": "https://www.gying.in/s/ajax"
+        },
+       {
+            "key": "观影",
+            "name": "观影03无广",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://pc.stgowan.com/pc/beitou-tf.js",
+            "ext": "https://www.gying.in"
         },
         {
             "key": "cc",
