@@ -460,18 +460,17 @@
             "api": "https://100km.top/0",
             "ext": "https://100km.top/0"
         },
-        {
-      "key": "观影",
-      "name": "观影┃无广",
-      "type": 3,
-      "api": "https://www.gying.in/s/ajax",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.gying.in/"
-    },
+       {
+            "key": "观影",
+            "name": "观影┃无广",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://www.gying.in/s/ajax",
+            "ext": "https://www.gying.in/s/ajax"
+        },
         {
             "key": "cc",
             "name": "请勿相信视频中广告",
