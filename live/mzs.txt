@@ -366,7 +366,6 @@ CCTV-17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&a
 
 
 📺央视卫视,#genre#
-
 CCTV-1,http://119.98.71.117:4022/rtp/239.254.96.96:8550$湖北电信
 CCTV-2,http://119.98.71.117:4022/rtp/239.69.1.102:10250$湖北电信
 CCTV-3,http://119.98.71.117:4022/rtp/239.69.1.122:10370$湖北电信
@@ -1165,4 +1164,20 @@ CCTV4K,https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=,
 CCTV4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=,
 
-
+CCTV1,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002133/1.m3u8
+CCTV2,http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8
+CCTV3,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002135/index.m3u8
+CCTV4,http://[2409:8087:74d9:21::6]/270000001128/9900000503/index.m3u8
+CCTV5,http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV7,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000720
+CCTV8,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000582
+CCTV9,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000410
+CCTV10,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000156
+CCTV11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
+CCTV12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000287
+CCTV13,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000010
+CCTV14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+CCTV16,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715
+CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV5+,http://[2409:8087:74d9:21::6]/270000001111/1110000306/index.m3u8
