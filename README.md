@@ -1,3 +1,10 @@
+# 💸 给英文不好的朋友
+
+● GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
+
+● Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
+
+
 # 🚀 每12小时更新一次
 
 ● clash订阅链接：https://git.io/emzclash
@@ -11,14 +18,15 @@
 ● v2ray订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
 
-# 给英文不好的朋友
+# 📘 各类客户端
 
-● GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
+● v2rayN：https://github.com/2dust/v2rayN
+● Clash for windows：https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+● Nekoray：https://github.com/MatsuriDayo/nekoray
+● Hiddify：https://github.com/hiddify/hiddify-app
+● GUI for SingBox：https://github.com/GUI-for-Cores/GUI.for.SingBox
 
-● Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
-
-
-# 影视源接口分享 影视仓配置接口大全
+# ⭐ 影视源接口分享 影视仓配置接口大全
 
 小橙子：https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json
 
