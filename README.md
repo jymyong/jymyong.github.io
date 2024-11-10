@@ -4,6 +4,8 @@
 
 ● Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
+● 浏览器插件 🔰https://immersivetranslate.com/
+
 
 # 🚀 每12小时更新一次
 
