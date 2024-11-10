@@ -19,6 +19,80 @@
             "quickSearch": 0,
             "filterable": 0
         },
+        
+
+
+{
+    "key":"csp_盒子",
+    "name":"┣☪琉✿芸┫盒子┃",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "影片地区": "大陆",
+    "副标题":"琉芸蓝光✨+class=\"jidi\"><span>&&</span>",
+    "影片年代": "<div class=\"module-info-tag\">&&</div>",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "module-info-tag\">&&立即播放",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "琉芸专享✨+<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "🏮劉氏-电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"}
+},
+{
+    "key":"csp_影業",
+    "name":"正版🍁劉氏影業",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "主页url":"http://www.98dyb.com/",
+    "简介":"【琉芸提醒】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+    "影片状态":"状态：&&</p>",
+    "副标题":"琉芸蓝光✨+text-right\">&&</span>",
+    "搜索url":"/search.php;post;searchword={wd}",
+    "线路数组":"<h3&&/h3>",
+    "线路标题":"琉芸专享✨+src=*>&&<",
+    "分类url":"http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
+},
+{
+  "key": "玩偶智能",
+  "name": "🐲小橙子智能4K弹幕",
+  "type": 3,
+  "api": "csp_Wogg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/柒豪.zip",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "wogg": true,
+           "danmu": true
+        }
+},	  	  
+{
+            "key": "乐",
+            "name": "云专属个人接口",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "playUrl": "",
+            "categories": [],
+            "quickSearch": 0
+        },
+{
+            "key": "色南国资源",
+            "name": "撸铁🔞南国",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
         {
             "key": "玩偶",
             "name": "👽MYONG┃4K弹幕",
