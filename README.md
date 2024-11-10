@@ -1,67 +1,249 @@
-# 使用Replit部署LiveRedirect项目
+# 🚀 每12小时更新一次
 
-PHP地址：https://php.61073736.repl.co/***.php?id={channel}
+clash订阅链接：https://git.io/emzclash
 
-Golang地址：https://golang.61073736.repl.co/***/{channel}
+v2ray订阅链接：https://git.io/emzv2ray
 
-例如：https://golang.61073736.repl.co/huya/23865142
+手机用户无法访问上方短链接时可以用下面的长链接
 
-# clash订阅链接：
+clash订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
-项目一：https://github.com/chengaopan/AutoMergePublicNodes?tab=readme-ov-file
-
-项目二：https://github.com/mahdibland/V2RayAggregator?tab=readme-ov-file
-
-项目三：raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/trojan.txt
-
-项目四：https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+v2ray订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
 
-项目地址：https://github.com/aiboboxx/clashfree
-
-
-其他免费机场加工具大全
-https://v2rayse.com/client
-
-
-# TVBox、tivimate、ZYPlayer等自用源以及仓库源、直播源等
-TVBox、tivimate等自用源以及仓库源、直播源等
-以下为国内可打开缓存地址：
-
-https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
-
-https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
-
-TVBOX接口在线解密：https://www.lige.fit/ua
-
-TVBox 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
-
-# 配置说明：
-
-（1）cangku.json 网络收集的多人配置文件；
-
-（2）duocang.json 网络收集的多人仓库配置文件；
-
-（3）live-qingtian.txt 网络收集 晴天 电视直播源；
-
-（4）live.m3u 网络收集的 tivimata 软件电视直播源；
-
-（5）live.txt 网络收集的用于 TVbox 软件的电视直播源；
-
-（6）livecangku.json 网络收集的用于 TVbox 软件的电视直播源汇总；
-
-（7）luxian.json 网络收集的单人配置文件；
-
-（8）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
-
-
-# 1、给英文不好的朋友
+# 给英文不好的朋友
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
 
 Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
-# 2、Github RAW 加速服务
+
+# 影视源接口分享 影视仓配置接口大全
+
+小橙子：https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json
+
+小鱼：https://download.kstore.space/download/4645/99.json
+
+魔盒：https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json
+
+驸马：http://fmys.top/fmys.json
+
+https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json
+
+平安：https://git.acwing.com/cnlv/tv/-/raw/main/stronger.json
+
+测试配置链接
+
+国内加速链接：https://ghp.ci/raw.githubusercontent.com/tBox2010/tBox/refs/heads/main/配置.json
+
+原链接：https://raw.githubusercontent.com/tBox2010/tBox/refs/heads/main/peizhi.json
+
+http://www.饭太硬.com/tv
+
+http://www.mpanso.com/小米/DEMO.json
+
+http://肥猫.com
+
+http://tvbox,王二小放牛娃.top
+
+http://我不是.摸鱼儿.com
+
+https://gh.aptv.app/https://raw.githubusercontent.com/PizazzGY/TVBox/n
+
+https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBo
+
+https://gh.aptv.app/https://raw.githubusercontent.com/xyq254245/xyqonl
+
+http://kxrj.site:55/天天开心
+
+https://100km.top/0
+
+http://ok321.top/ok
+
+http://74.120.175.78/JK/XYQTVBox/dj.json
+
+https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+时光机
+
+https://ghproxy.net/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/stage/main.json
+
+时光机标准杯：https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/stage/main.json
+
+-时光机超大杯：https://www.lintech.work/static/source/main.json
+
+宝盒：http://mzjk.top/禁止贩卖
+
+多仓：http://mzjk.top/DC
+
+https://git.acwing.com/bhjk/vip/-/raw/main/top.json
+
+饭太硬：http://www.饭太硬.com/tv
+
+肥猫：http://肥猫.com
+
+V哥：http://tvbox.稳定接口.com
+
+https://tv.iill.top/m3u/Gather
+
+下边为常用接口：
+
+https://fmbox.cc
+
+http://www.饭太硬.com/tv
+
+http://tvbox.王二小放牛娃.top
+
+http://肥猫.com
+
+http://我不是.摸鱼儿.com
+
+http://www.mpanso.com/小米/DEMO.json
+
+https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
+
+https://gh.yf1688.top/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+
+http://ok321.top/tv
+
+福利
+
+https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json
+
+https://codeberg.org/HG520/YS/raw/branch/main/yingshi5.1.json
+
+https://ghp.ci/https://raw.githubusercontent.com/yun3695/yun/refs/heads/main/cs.json
+
+直播源2024.10.17
+福利
+
+https://notabug.org/asdz324/asdz/raw/master/wd18.json
+
+老司机
+
+https://files.catbox.moe/3m5dbm.txt
+
+纯福利
+
+https://mpimg.cn/down.php/93dd00c7e2d7c0d8f7ca795edc79b893.txt
+
+纯老司机（神V直播）
+
+https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474
+
+18+接口（线路巨多）
+
+https://mirror.ghproxy.com/https://github.com/sf467/Tvbox1/raw/main/cr.json
+
+成人点播
+
+https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json
+
+老司机点播
+
+https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json
+
+18+点播
+
+https://agit.ai/ctt/TVBox/raw/branch/main/18/18-01.json
+
+69测试直播
+
+https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/69/1asvfdgs.txt
+
+成人在线直播
+
+http://adultiptv.net/lists/all.m3u
+
+黑软18
+
+https://cccimg.com/down.php/ed06b8ee2166303451a7c99ab5357fc4.txt
+
+肥猫直播
+
+https://www.huichunniao.cn/xh/lib/live.txt
+
+直播接口
+
+https://agit.ai/945KM/TVBox/raw/branch/master/TV/live.txt
+
+新直播：
+
+http://www.hyxuanit.com/testzb/240613.txt
+
+直播
+
+http://127.0.0.1:9978/
+
+ZB
+
+https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/tvlive.txt
+
+https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main
+
+https://raw.gitcode.com/tytv/ty2024/raw/main/%E7%B3%96%E6%84%8F
+
+直播源
+
+https://dpaste.org/Xte0j/raw
+
+西夏直播
+
+https://2912.kstore.space/xxm.txt
+
+挺好直播
+
+http://127.0.0.1:9978/
+
+在线源配置地址:http://117.72.68.25:9230/latest.txt
+
+直播接口：
+
+https://agit.ai/n/b/raw/branch/a/b/zb.txt
+
+挺好直播源http://ztha.top/TVBox/tv/thtv.txt挺好密码188452
+
+爱tv直播源
+
+https://pan.shangui.cc/f/7eJPCM/LIVE- TV%E6%9B%B4%E6%96%B0.txt
+
+爱tv密码555
+
+全球TV直播源接口
+
+https://gitcode.net/shi800/dd/-/raw/master/ e.txt
+
+全球TV密码13657
+
+春盈天下直播接口
+
+https://wds.ecsxs.com/230864.json
+
+春盈天下密码6666/7777
+
+西夏直播接口密码0204 8911
+
+http://wl.iptv8.top/wl/a/1707048974.txt
+
+拾光4k直播源
+
+https://gh.con.sh/https://raw.githubusercon tent.com/xmbjm/vip4K/main/lib/tvlive.txt
+
+糖意直播源密码cj9998
+
+https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt
+
+https://gitcode.net/shi800/dd/-/raw/master/e.txt
+
+
+
+
+
+
+
+
+
+# 1、Github RAW 加速服务
 
 源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
 
@@ -87,7 +269,7 @@ https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
 
-# 3，Github 静态加速
+# 2，Github 静态加速
 
 https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 
@@ -95,7 +277,7 @@ https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
-# 4、EGP源
+# 3、EGP源
 
 [fanmingming/live](https://github.com/fanmingming/live)
 
@@ -137,13 +319,9 @@ epg6：(http://124.223.212.38:83/)
 
 epg7：(https://epg.112114.xyz/)
 
-超级直播
 
-Xml格式
 
-Xml格式
-
-# 5、开源仓库
+# 4、开源仓库
 
 https://github.com/
 
@@ -161,7 +339,7 @@ https://agit.ai/
 
 https://notabug.org/
 
-# 6、短地址平台
+# 5、短地址平台
 
 （1）https://short.io
 
@@ -183,55 +361,6 @@ https://notabug.org/
 
 （10）https://www.urlc.cn/
 
-# 7、TVBox各路大佬配置（排名不分先后）：
-
-（1）唐三：https://hutool.ml/tang
-
-（2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
-
-（3）俊于：http://home.jundie.top:81/top98.json
-
-（4）饭太硬：http://饭太硬.ga/x/o.json
-
-（5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-
-（6）小雅dr：http://drpy.site/js1
-
-（7）菜妮丝：https://tvbox.cainisi.cf
-
-（8）神器：https://神器每日推送.tk/pz.json
-
-（9）巧技：http://pandown.pro/tvbox/tvbox.json
-
-（10）刚刚：http://刚刚.live/猫
-
-（11）吾爱有三：http://52bsj.vip:98/0805
-
-（12）潇洒：https://download.kstore.space/download/2863/01.txt
-
-（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
-
-（14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
-
-（15）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
-
-（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-
-（17）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
-（18）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
-
-（19）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
-
-（20）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
-
-（21）Ray：https://dxawi.github.io/0/0.json
-
-（22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
-
-（23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
-（24）肥猫：http://我不是.肥猫.love:63
 
 # 8、随机轮换壁纸：
 
@@ -257,11 +386,11 @@ https://notabug.org/
 
 （11）https://pictures.catvod.eu.org/
 
-# 9、工具
+# 6、工具
 
 （1）文本处理： http://www.txttool.com/
 
-# 10、 TV logo list
+# 7、 TV logo list
 
 ### source
 https://github.com/msolihinam/tv/tree/main/logo
