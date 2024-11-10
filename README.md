@@ -1,21 +1,21 @@
 # 🚀 每12小时更新一次
 
-clash订阅链接：https://git.io/emzclash
+● clash订阅链接：https://git.io/emzclash
 
-v2ray订阅链接：https://git.io/emzv2ray
+● v2ray订阅链接：https://git.io/emzv2ray
 
 手机用户无法访问上方短链接时可以用下面的长链接
 
-clash订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+● clash订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
-v2ray订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+● v2ray订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
 
 # 给英文不好的朋友
 
-GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
+● GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
 
-Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
+● Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 
 # 影视源接口分享 影视仓配置接口大全
@@ -238,11 +238,6 @@ https://gitcode.net/shi800/dd/-/raw/master/e.txt
 
 
 
-
-
-
-
-
 # 1、Github RAW 加速服务
 
 源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
@@ -388,7 +383,7 @@ https://notabug.org/
 
 # 6、工具
 
-（1）文本处理： http://www.txttool.com/
+● 文本处理： http://www.txttool.com/
 
 # 7、 TV logo list
 
