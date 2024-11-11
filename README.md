@@ -19,7 +19,7 @@
 
 ● v2ray订阅链接：🔰https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
-参考：🔰https://github.com/ermaozi/get_subscribe/tree/main🔰
+🔰[参考](https://github.com/ermaozi/get_subscribe/tree/main)🔰    🔰[clashfee](https://t.me/s/v2raydailyupdate)🔰
     
 
 # 📘 各类客户端
