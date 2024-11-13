@@ -400,7 +400,7 @@ https://notabug.org/
 
 # 6、工具
 
-● 文本处理： http://www.txttool.com/
+● 🔰🔰[每日更新直播源](https://github.com/yuanzl77/IPTV)🔰🔰
 
 # 7、 TV logo list
 
