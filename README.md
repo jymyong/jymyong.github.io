@@ -411,4 +411,6 @@ https://github.com/Sppotato/Sppotato.github.io
 
 https://github.com/m3u8playlist/tvlogo
 
+🔰🔰[每日更新直播源](https://github.com/yuanzl77/IPTV)🔰🔰
+
 本页面只是收集Box，自用请勿宣传。
