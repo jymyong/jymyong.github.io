@@ -400,7 +400,11 @@ https://notabug.org/
 
 # 6、工具
 
-● 🔰🔰[每日更新直播源](https://github.com/yuanzl77/IPTV)🔰🔰
+● 🔰🔰[每日更新直播源yuanzl77](https://github.com/yuanzl77/IPTV)🔰🔰
+
+● 🔰🔰[ 每日更新直播源Moexin ](https://github.com/Moexin/IPTV)🔰🔰
+
+● 🔰🔰[每日更新直播源xiongjian83](https://github.com/xiongjian83/TvBox)🔰🔰
 
 # 7、 TV logo list
 
