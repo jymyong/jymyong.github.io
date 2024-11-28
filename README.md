@@ -11,7 +11,7 @@
 
 ● clash订阅链接：🔰https://git.io/emzclash
 
-● v2ray订阅链接：🔰https://git.io/emzv2ray
+● v2ray订阅链接：🔰https://git.io/emzv2ray  ●V2Ray添加后需开代理才能更新订阅●
 
 手机用户无法访问上方短链接时可以用下面的长链接
 
