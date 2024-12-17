@@ -41,7 +41,15 @@
       "quickSearch": 1,
       "filterable": 1,
     },
-
+{
+      "key": "4K影视",
+      "name": "💕4K影视｜斧头帮",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    },
   {
       "key": "Lib",
       "name": "💕极速秒播┃斧头帮",
