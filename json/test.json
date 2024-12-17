@@ -32,33 +32,29 @@
         "danmu": true
       }
     },
-    {
-  "key": "布卡影院",
-  "name": "⛟布卡影视｜斧头帮",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "分类url": "https://www.bk-yy.com//vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "数组": "pic\"&gt;&amp;&amp;",
-    "标题": "title=\"&amp;&amp;\"",
-    "图片": "data-original=\"&amp;&amp;\"",
-    "副标题": "text-overflow\"&gt;&amp;&amp;<p></p>",
-    "链接": "href=\"&amp;&amp;\"",
-    "简介": "简介：&amp;&amp;<p></p>",
-    "线路数组": "slide ewave-tab active&amp;&amp;/em&gt;",
-    "线路标题": "&gt;&amp;&amp;&lt;",
-    "播放数组": "ewave-tab-content&amp;&amp;",
-    "倒序": "0",
-    "播放标题": "&gt;&amp;&amp;",
-    "播放链接": "href=\"&amp;&amp;\"",
-    "跳转播放链接": "var player_*\"url\":\"&amp;&amp;\"",
-    "分类": "伦理$lunlipian#电影$dy#电视剧$dsj#综艺$zy#动漫$dm#体育$tiyu#短剧$duanju",
-    "类型": "空||动作片$dz#喜剧片$xj#爱情片$aq#科幻片$kh#恐怖片$kb#剧情片$jq#战争片$zz#纪录片$jilupian#电影解说$dianyingjieshuo||大陆剧$dalu#港台剧$gangtai#美剧$meiju#海外剧$qita#韩国剧$rihan#香港剧$xianggangju#日本剧$ribenju#泰国剧$taiguoju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||足球$zuqiu#篮球$lanqiu#网球$wangqiu#斯诺克$sinuoke||空"
-  }
-},
+     {
+      "key": "csp_vs",
+      "name": "💕VS秒播┃斧头帮",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    },
+
+  {
+      "key": "Lib",
+      "name": "💕极速秒播┃斧头帮",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
     {
       "key": "新6V",
       "name": "🌾新6V┃磁力",
