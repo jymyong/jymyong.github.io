@@ -33,7 +33,6 @@
       }
     },
   
-    
     {
       "key": "csp_xBPQ可可",
       "name": "💕可可影视｜斧头帮",
@@ -42,6 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "./lib/可可影视.json"
     },
     {
       "key": "农民影视",
@@ -51,6 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "./lib/nongmin.json"
     },
 
      {
