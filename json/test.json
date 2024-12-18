@@ -72,24 +72,6 @@
       "changeable": 1
     },
     {
-      "key": "Ying",
-      "name": "💮樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Ysj",
-      "name": "🎀异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Anime1",
       "name": "🐾日本┃动漫",
       "type": 3,
@@ -98,20 +80,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "88js",
-      "name": "⚽ 88┃看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
-    
     {
       "key": "新6V",
       "name": "🌾新6V┃磁力",
