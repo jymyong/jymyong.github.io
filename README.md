@@ -20,6 +20,8 @@
 ● v2ray订阅链接：🔰https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
 🔰[参考](https://github.com/ermaozi/get_subscribe/tree/main)🔰    🔰[clashfee](https://t.me/s/v2raydailyupdate)🔰    🔰[生成SS节点](https://github.com/anonymous-en/ss_extractor_gui/tree/v1.1.0)🔰    🔰[生成节点](https://github.com/anonymous-en/bpbvless/tree/v1.0.2)🔰
+
+🔰[Clash节点](https://github.com/aiboboxx/clashfree)🔰   🔰[v2Ray节点](https://github.com/aiboboxx/v2rayfree)🔰
     
 
 # 📘 各类客户端
