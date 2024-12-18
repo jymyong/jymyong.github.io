@@ -52,22 +52,6 @@
       "quickSearch": 1,
       "filterable": 1,
     },
-{
-      "key": "6080",
-      "name": "💕天外天行止｜斧头帮",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "主页": "https://www.6080yy4.com",
-        "分类url": "https://www.6080yy4.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"
-      }
-    },
-    
-    
 
      {
       "key": "新6V",
