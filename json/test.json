@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/可可影视.json"
+      "ext": "https://www.keke12.com:51111/"
     },
     {
       "key": "农民影视",
@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/nongmin.json"
+      "ext": "http://www.jwx505.com/"
     },
 
      {
