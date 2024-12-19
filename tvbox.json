@@ -42,27 +42,6 @@
       "changeable": 0
     },
     {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "新6V",
       "name": "🌾新6V┃磁力",
       "type": 3,
@@ -542,6 +521,93 @@
         "国产综艺"
       ],
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_CandyMuj_haokongbu",
+      "name": "💖好恐怖",
+      "type": 3,
+      "api": "csp_CandyMuj_haokongbu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_yzzy",
+      "name": "💖优质资源",
+      "type": 3,
+      "api": "csp_CandyMuj_yzzy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_qiqiyy",
+      "name": "💖琪琪影院",
+      "type": 3,
+      "api": "csp_CandyMuj_qiqiyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_BTPiaoHua",
+      "name": "💕新飘花电影网(磁力)",
+      "type": 3,
+      "api": "csp_BTPiaoHua",
+      "searchable": 1
+    },
+    {
+      "key": "csp_SixV",
+      "name": "💕6V电影网(磁力)",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "ext": "https://www.6vdy.org/"
+    },
+    {
+      "key": "csp_IQIYI",
+      "name": "💕IQIYI",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "ext": "综合"
+    },
+    {
+      "key": "csp_MGTV",
+      "name": "💕MGTV",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "ext": "playerjy"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "💕360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "ext": "playerjy"
     },
     {
       "key": "Dm84",
