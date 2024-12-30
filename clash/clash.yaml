@@ -1,15 +1,3 @@
-# 生成地址：v2rayse.com
-# 模版名称：defaultName
-# 生成时间：2024-12-26 15:50:39
-# 不要随意改变关键字，否则会导致出错
-# acl4SSR规则
-# 去广告：支持
-# 自动测速：支持
-# 微软分流：支持
-# 苹果分流：支持
-# 增强中国IP段：不支持
-# 增强国外GFW：不支持
-
 mixed-port: 7890
 allow-lan: false
 mode: rule
@@ -58,51 +46,158 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 🇺🇸_US_美国->🇨🇳_CN_中国_1
-    port: 22222
-    server: 18.188.156.48
-    type: trojan
+  - name: 🇺🇸_US_美国->🇮🇷_IR_伊朗
+    port: 45203
+    server: 64.176.71.35
+    type: vless
+    network: tcp
     udp: true
-    sni: trojan.burgerip.co.uk
-    password: telegram-id-directvpn
+    uuid: 06cd4260-bd81-4bdd-900d-37fb0af80d01
   - name: 🇺🇸_US_美国_1
+    port: 443
+    server: 34.211.229.86
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_2
+    port: 2198
+    server: 94.131.112.54
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国_3
+    port: 443
+    server: 104.219.41.229
+    type: trojan
+    network: tcp
+    udp: true
+    sni: miami.juliusnet.com
+    password: Julius
+    skip-cert-verify: true
+  - name: 🇷🇺_RU_俄罗斯_1
+    port: 9010
+    server: 217.30.10.18
+    type: ss
+    udp: true
+    password: f63gg8EruDnUrmz4
+    cipher: aes-256-cfb
+  - name: 🇷🇺_RU_俄罗斯_2
+    port: 9019
+    server: 217.30.10.18
+    type: ss
+    udp: true
+    password: GA9KzeEgvfxNrgmM
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_4
+    port: 2198
+    server: 171.22.125.187
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国_5
+    port: 2198
+    server: 171.22.125.183
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国_6
+    port: 2198
+    server: 171.22.125.182
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇫🇷_FR_法国->🇺🇸_US_美国
     port: 22222
-    server: 13.39.55.63
+    server: 35.181.245.61
     type: trojan
     udp: true
     sni: trojan.burgerip.co.uk
     password: telegram-id-privatevpns
-  - name: 🇨🇳_CN_中国
-    port: 23521
-    server: 62.60.216.183
+  - name: 🇳🇱_NL_荷兰_1
+    port: 2198
+    server: 188.119.112.18
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇹🇷_TR_土耳其
+    port: 989
+    server: 185.123.101.241
     type: ss
     udp: true
-    password: qiO5ip9yppffCrhATKcy2E3dPSyHSrHvUeg43LVO6FU=
-    cipher: chacha20-ietf-poly1305
-  - name: 🇷🇺_RU_俄罗斯_1
-    port: 9084
-    server: 217.30.10.18
-    type: ss
-    udp: true
-    password: c3NtHJ5ujV2tGDfj
+    password: f8f7aCzcPKbsF8p3
     cipher: aes-256-cfb
-  - name: 🇷🇺_RU_俄罗斯_2
-    port: 9020
-    server: 217.30.10.18
-    type: ss
+  - name: 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+    port: 2198
+    server: 95.164.86.59
+    type: vless
+    network: tcp
     udp: true
-    password: BNmAXXxAHYpTRdzu
-    cipher: aes-256-cfb
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
   - name: 🇷🇺_RU_俄罗斯_3
+    port: 9042
+    server: 217.30.10.18
+    type: ss
+    udp: true
+    password: S7KwUu7yBy58S3Ga
+    cipher: aes-256-cfb
+  - name: 🇳🇱_NL_荷兰_2
+    port: 2198
+    server: 188.119.113.164
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国_7
+    port: 2198
+    server: 171.22.124.176
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国->🇹🇷_TR_土耳其
+    port: 22222
+    server: 3.97.199.230
+    type: trojan
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-directvpn
+  - name: 🇷🇺_RU_俄罗斯_4
     port: 9064
     server: 217.30.10.18
     type: ss
     udp: true
     password: cp8pRSUAyLhTfVWH
     cipher: aes-256-cfb
-  - name: 🇺🇸_US_美国->🇨🇳_CN_中国_2
+  - name: 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+    port: 2198
+    server: 171.22.125.180
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇦_UA_乌克兰
+    port: 31348
+    server: 188.191.147.127
+    type: ss
+    udp: true
+    password: 6IVOuzMfH5ROpgwtRTcNJKYJvYe9FDVaU7wAYYh8PRLxxZs6
+    cipher: chacha20-ietf-poly1305
+  - name: 🇷🇺_RU_俄罗斯_5
+    port: 2198
+    server: 185.236.233.136
+    type: vless
+    network: tcp
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国_8
     port: 22222
-    server: 18.130.33.20
+    server: 3.70.146.20
     type: trojan
     network: tcp
     udp: true
@@ -110,368 +205,239 @@ proxies:
     password: telegram-id-privatevpns
     alpn:
       - http/1.1
-  - name: 🇺🇸_US_美国->🇮🇳_IN_印度
-    port: 80
-    server: 151.101.128.155
+  - name: 未知
+    port: 2198
+    server: 103.106.2.221
     type: vless
-    network: ws
+    network: tcp
     udp: true
-    ws-opts:
-      path: /TeleGram.Channel@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG-?ed=2048
-      headers:
-        host: Viscaria.com
-    uuid: 518515bc-e98c-4711-84cc-3d1388ed85c8
-  - name: 🇷🇺_RU_俄罗斯_4
-    port: 23456
-    server: 185.22.155.228
-    type: ss
-    udp: true
-    password: dongtaiwang.com
-    cipher: aes-256-gcm
-  - name: 🇷🇺_RU_俄罗斯_5
-    port: 9038
-    server: 217.30.10.18
-    type: ss
-    udp: true
-    password: gYCYXfkUQEs2TaJQ
-    cipher: aes-256-cfb
-  - name: 🇷🇺_RU_俄罗斯_6
-    port: 9014
-    server: 217.30.10.18
-    type: ss
-    udp: true
-    password: KnJGad3FqTvjqbaX
-    cipher: aes-256-cfb
-  - name: 🇷🇺_RU_俄罗斯_7
-    port: 9088
-    server: 217.30.10.18
-    type: ss
-    udp: true
-    password: f8npKgNzdkss2ytn
-    cipher: aes-256-cfb
-  - name: 🇺🇸_US_美国_2
-    port: 2052
-    server: 104.17.147.22
-    type: vless
-    network: ws
-    udp: true
-    servername: ua1.v2vless.site
-    ws-opts:
-      path: /vless#@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi
-      headers:
-        host: www-domain.ua1.v2vless.sitespeedtest.net
-    uuid: 633ef643-9a47-5c6f-8689-a531cf17d279
-  - name: 🇷🇺_RU_俄罗斯_8
-    port: 29025
-    server: 176.32.33.100
-    type: vmess
-    network: ws
-    udp: true
-    sni: ""
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-    cipher: auto
-    uuid: 11dc6f86-fde0-4899-81eb-ce7655154f5e
-    alterId: 0
-  - name: 🇷🇺_RU_俄罗斯_9
-    port: 5743
-    server: 46.29.161.159
-    type: vmess
-    network: ws
-    udp: true
-    ws-opts:
-      path: /
-    cipher: auto
-    uuid: 9f7b2472-cbfb-42d8-8a04-d9c4789b80fe
-    alterId: 0
-  - name: 🇮🇪_IE_爱尔兰
-    port: 55939
-    server: 13.79.98.64
-    type: ss
-    udp: true
-    password: 49JPbl6SMH1hDoskOR6irG
-    cipher: chacha20-ietf-poly1305
-  - name: 🇱🇻_LV_拉脱维亚
-    port: 990
-    server: 46.183.217.232
-    type: ss
-    udp: true
-    password: f8f7aCzcPKbsF8p3
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸_US_美国_3
-    port: 8080
-    server: 79.110.53.169
-    type: ss
-    udp: true
-    password: 14fFPrbezE3HDZzsMOr6
-    cipher: rc4-md5
-  - name: 🇷🇺_RU_俄罗斯_10
-    port: 9042
-    server: 217.30.10.18
-    type: ss
-    udp: true
-    password: S7KwUu7yBy58S3Ga
-    cipher: aes-256-cfb
-  - name: 🇺🇸_US_美国->🇩🇪_DE_德国_1
-    port: 80
-    server: 151.101.0.155
-    type: vless
-    network: ws
-    udp: true
-    ws-opts:
-      path: /?ed=2048
-      headers:
-        host: intenfomino1p1.com
-    uuid: 2d8497b5-23dd-46de-b654-717452302700
-  - name: 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  - name: 🇺🇸_US_美国_9
     port: 443
-    server: 195.133.11.229
+    server: 34.222.132.123
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_10
+    port: 22222
+    server: 18.159.67.87
     type: trojan
-    network: ws
+    network: tcp
     udp: true
-    sni: get.fragmentary.info
-    password: xsN5qXcwQ2u61ZpcYQhyBujA3gWTrtNV
-    ws-opts:
-      path: /socks5tobefree
-  - name: 🇺🇸_US_美国->🇩🇪_DE_德国_2
-    port: 80
-    server: 151.101.192.155
-    type: vless
-    network: ws
-    udp: true
-    ws-opts:
-      path: /TeleGram.Channel@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG-?ed=2048
-      headers:
-        host: Viscaria.com
-    uuid: 518515bc-e98c-4711-84cc-3d1388ed85c8
-  - name: 🇷🇺_RU_俄罗斯_11
-    port: 9045
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-privatevpns
+    alpn:
+      - http/1.1
+  - name: 🇷🇺_RU_俄罗斯_6
+    port: 9018
     server: 217.30.10.18
     type: ss
     udp: true
-    password: Lp27rqyJq72bZsqX
+    password: fG2artUmHfNT2cX7
     cipher: aes-256-cfb
-  - name: 🇺🇸_US_美国_4
-    port: 80
-    server: 199.232.196.204
+  - name: 🇺🇸_US_美国_11
+    port: 2198
+    server: 171.22.125.181
     type: vless
-    network: ws
+    network: tcp
     udp: true
-    ws-opts:
-      path: /@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560
-      headers:
-        host: JoinBede--VPNCUSTOMIZE.ir
-    uuid: 6ef79989-6321-5e6b-b39e-602fc95ecf3e
-  - name: 🇷🇺_RU_俄罗斯_12
-    port: 29025
-    server: 46.29.161.224
-    type: vmess
-    network: ws
-    udp: true
-    sni: ""
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-    cipher: auto
-    uuid: 9c883f99-7105-4e39-876d-167c1a90fbe0
-    alterId: 0
-  - name: 🇷🇺_RU_俄罗斯_13
-    port: 9033
-    server: 217.30.10.18
-    type: ss
-    udp: true
-    password: UTJA57ypk2XKQpnm
-    cipher: aes-256-cfb
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -494,32 +460,33 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_1
+      - 🇺🇸_US_美国->🇮🇷_IR_伊朗
       - 🇺🇸_US_美国_1
-      - 🇨🇳_CN_中国
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
       - 🇷🇺_RU_俄罗斯_1
       - 🇷🇺_RU_俄罗斯_2
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇺🇸_US_美国->🇨🇳_CN_中国_2
-      - 🇺🇸_US_美国->🇮🇳_IN_印度
-      - 🇷🇺_RU_俄罗斯_4
-      - 🇷🇺_RU_俄罗斯_5
-      - 🇷🇺_RU_俄罗斯_6
-      - 🇷🇺_RU_俄罗斯_7
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯_8
-      - 🇷🇺_RU_俄罗斯_9
-      - 🇮🇪_IE_爱尔兰
-      - 🇱🇻_LV_拉脱维亚
-      - 🇺🇸_US_美国_3
-      - 🇷🇺_RU_俄罗斯_10
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯_11
       - 🇺🇸_US_美国_4
-      - 🇷🇺_RU_俄罗斯_12
-      - 🇷🇺_RU_俄罗斯_13
+      - 🇺🇸_US_美国_5
+      - 🇺🇸_US_美国_6
+      - 🇫🇷_FR_法国->🇺🇸_US_美国
+      - 🇳🇱_NL_荷兰_1
+      - 🇹🇷_TR_土耳其
+      - 🇺🇦_UA_乌克兰->🇺🇸_US_美国
+      - 🇷🇺_RU_俄罗斯_3
+      - 🇳🇱_NL_荷兰_2
+      - 🇺🇸_US_美国_7
+      - 🇺🇸_US_美国->🇹🇷_TR_土耳其
+      - 🇷🇺_RU_俄罗斯_4
+      - 🇺🇸_US_美国->🇷🇺_RU_俄罗斯
+      - 🇺🇦_UA_乌克兰
+      - 🇷🇺_RU_俄罗斯_5
+      - 🇺🇸_US_美国_8
+      - 未知
+      - 🇺🇸_US_美国_9
+      - 🇺🇸_US_美国_10
+      - 🇷🇺_RU_俄罗斯_6
+      - 🇺🇸_US_美国_11
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
