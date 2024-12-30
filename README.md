@@ -42,9 +42,8 @@
 ● iptv-api：IPTV电视直播源更新工具
 [链接](https://github.com/Guovin/iptv-api)  
 
-● Myiptv：附带检测与分类功能      
+● Myiptv：附带检测与分类功能
 [链接](https://github.com/abc1763613206/myiptv)  
-
 
 ● 全球公共IPTV频道: 收集来自世界各地的5000多个公共频道
 [链接](https://github.com/iptv-org/iptv)  
@@ -61,14 +60,13 @@
 ● Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
 [链接 ](https://github.com/Ftindy/IPTV-URL) 
 
-
 ● IPTVindex: 电视直播、影视点播、电脑软件
 [链接](https://www.iptvindex.com/)  
 
 ● fanmingming/live: 国内可直连的直播源分享项目，永久免费，支持IPv4/IPv6双栈访问
 [链接](https://github.com/fanmingming/live)  
 
-● m3u 直播源:
+● m3u 直播源：佛系更新
 [链接](https://github.com/YanG-1989/m3u)  
 
 ● IPTV: 自动整合好趣网直播源+TVBox直播源+其他网上直播源，择取分辨率、速度最佳视频流，定期更新
