@@ -36,6 +36,46 @@
 
 ● GUI for SingBox：🔰https://github.com/GUI-for-Cores/GUI.for.SingBox
 
+#📺 直播源汇总（不断更新中…）   
+
+● iptv-api：IPTV电视直播源更新工具
+[链接](https://github.com/Guovin/iptv-api)  
+
+● Myiptv：附带检测与分类功能。      
+[链接](https://github.com/abc1763613206/myiptv)  
+
+
+● 全球公共IPTV频道: 收集来自世界各地的5000多个公共频道
+[链接](https://github.com/iptv-org/iptv)  
+
+● 国内直播源: 主要电视节目
+[链接](https://myernestlu.github.io/zby.txt)  
+
+● 直播源列表: 主要电视节目
+[链接](http://epg.51zmt.top:8000/)  
+
+● 直播源相关资源汇总: IPTV、M3U
+[链接](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8#%E5%B7%A5%E5%85%B7)  
+
+● Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
+[链接 ](https://github.com/Ftindy/IPTV-URL) 
+
+
+● IPTVindex: 电视直播、影视点播、电脑软件
+[链接](https://www.iptvindex.com/)  
+
+● fanmingming/live: 国内可直连的直播源分享项目，永久免费，完整开源，不含广告，支持IPv4/IPv6双栈访问
+[链接](https://github.com/fanmingming/live)  
+
+● m3u 直播源:
+[链接](https://github.com/YanG-1989/m3u)  
+
+● IPTV: 自动整合好趣网直播源+TVBox直播源+其他网上直播源，择取分辨率、速度最佳视频流，定期更新
+[链接](https://github.com/joevess/IPTV)  
+
+● Rivens7/Livelist: IPTV-ipv6直播源同步及常看直播，基于Moexin/IPTV项目修改，国内直播源同步fanmingming/live
+[链接](https://github.com/Rivens7/Livelist)  
+
 
 # ⭐ 影视源接口分享 影视仓配置接口大全
 
