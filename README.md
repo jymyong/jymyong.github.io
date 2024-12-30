@@ -36,12 +36,13 @@
 
 ● GUI for SingBox：🔰https://github.com/GUI-for-Cores/GUI.for.SingBox
 
-#📺 直播源汇总（不断更新中…）   
+
+# 📺 直播源汇总（不断更新中…）   
 
 ● iptv-api：IPTV电视直播源更新工具
 [链接](https://github.com/Guovin/iptv-api)  
 
-● Myiptv：附带检测与分类功能。      
+● Myiptv：附带检测与分类功能      
 [链接](https://github.com/abc1763613206/myiptv)  
 
 
@@ -64,7 +65,7 @@
 ● IPTVindex: 电视直播、影视点播、电脑软件
 [链接](https://www.iptvindex.com/)  
 
-● fanmingming/live: 国内可直连的直播源分享项目，永久免费，完整开源，不含广告，支持IPv4/IPv6双栈访问
+● fanmingming/live: 国内可直连的直播源分享项目，永久免费，支持IPv4/IPv6双栈访问
 [链接](https://github.com/fanmingming/live)  
 
 ● m3u 直播源:
@@ -73,7 +74,7 @@
 ● IPTV: 自动整合好趣网直播源+TVBox直播源+其他网上直播源，择取分辨率、速度最佳视频流，定期更新
 [链接](https://github.com/joevess/IPTV)  
 
-● Rivens7/Livelist: IPTV-ipv6直播源同步及常看直播，基于Moexin/IPTV项目修改，国内直播源同步fanmingming/live
+● Rivens7/Livelist: IPTV-ipv6直播源同步及常看直播，基于Moexin/IPTV项目修改
 [链接](https://github.com/Rivens7/Livelist)  
 
 
