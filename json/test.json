@@ -19,6 +19,159 @@
       "quickSearch": 0,
       "filterable": 0
     },
+        {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppRB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看客影视",
+      "name": "看客┃影视",
+      "type": 3,
+      "api": "csp_Kanke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kmeiju.com"
+    },
+    {
+      "key": "可可",
+      "name": "可可┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.kkys02.com/",
+        "分类url": "https://www.kkys02.com/{cateId}-{catePg}.html[https://www.kkys02.com/{cateId}-.html];;ak",
+        "分类": "豆瓣TOP250&2023最佳影片&毒舌电影&热映电影&热播剧集&热门综艺&Netflix电影&Netflix剧集&经典美剧&海外短画&爱情治愈&漫威宇宙&星爷系列&迪士尼&国产剧&台湾剧&韩国剧&欧美剧&香港剧&泰国剧&日本剧&动作片&喜剧片&科幻片&恐怖片&爱情片&剧情片&战争片&传记片&动画片&国产动漫&日本动漫&韩国动漫&欧美动漫&大陆综艺&香港综艺&台湾综艺&日本综艺&韩国综艺&欧美综艺&短剧",
+        "分类值": "topic/detail/1&topic/detail/460&topic/detail/3&topic/detail/12&topic/detail/15&topic/detail/456&show/1-NETFLIX----3&show/2-NETFLIX----3&topic/detail/399&topic/detail/384&topic/detail/383&topic/detail/33&topic/detail/26&topic/detail/34&show/2--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/2--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/2--%E9%9F%A9%E5%9B%BD---3&show/2--%E7%BE%8E%E5%9B%BD---3&show/2--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/2--%E6%B3%B0%E5%9B%BD---3&show/2--%E6%97%A5%E6%9C%AC---3&show/1-%E5%8A%A8%E4%BD%9C----3&show/1-%E5%96%9C%E5%89%A7----3&show/1-%E7%A7%91%E5%B9%BB----3&show/1-%E6%81%90%E6%80%96----3&show/1-%E7%88%B1%E6%83%85----3&show/1-%E5%89%A7%E6%83%85----3&show/1-%E6%88%98%E4%BA%89----3&show/1-%E4%BC%A0%E8%AE%B0----3&show/1-%E5%8A%A8%E7%94%BB----3&show/3--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---1&show/3--%E6%97%A5%E6%9C%AC---1&show/3--%E9%9F%A9%E5%9B%BD---1&show/3--%E7%BE%8E%E5%9B%BD---1&show/4--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/4--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/4--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/4--%E6%97%A5%E6%9C%AC---3&show/4--%E9%9F%A9%E5%9B%BD---3&show/4--%E7%BE%8E%E5%9B%BD---3&show/6-----1",
+        "数组": "module-item\">&&\"v-item-footer\">",
+        "图片": "https://61.147.93.252:15002+data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "可可影视提供</span&&</div>",
+        "链接": "href=\"&&\"",
+        "搜索二次截取": "id=\"units_top\"&&id=\"units_footer\"",
+        "搜索url": "https://www.kkys02.com/search?os=pc&k={wd}",
+        "搜索数组": "<a&&class=\"tags\"",
+        "搜索图片": "data-original=\"&&\"[替换:/vod1/>>https://61.147.93.252:15002/vod1/][不包含:https://61.147.93.155:15001/vod_pc_static_kkdy/images/p/logo_placeholder_vertical.png?ver=240905]",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "v-item-bottom\">&&</div>",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "可可影视提供&&<i[不包含:4K(高峰不卡)]",
+        "线路标题": ">&&</span",
+        "播放数组": "episode-list\"&&</div",
+        "播放列表": "<a&&/a",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+        "影片地区": "盒子迷",
+        "影片年代": "class=\"detail-tags-item\">&&</a>",
+        "影片类型": "<div class=\"detail-tags fs-margin-top fs-margin-bottom\">&&立即播放",
+        "影片状态": "备注:&&</div>",
+        "导演": "导演:</div>&&</div>",
+        "主演": "演员:</div>&&</div>",
+        "简介": "detail-desc\">&&</p>"
+      }
+    },
+    {
+      "key": "zj",
+      "name": "8K┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+      }
+    },
+    {
+      "key": "白嫖者联盟2",
+      "name": "️白嫖┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影&剧集&综艺&动漫&短剧",
+        "分类值": "1&2&3&4&58",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"
+      }
+    },
+    {
+      "key": "2400部恐怖电影📲",
+      "name": "电影┃恐怖影视",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
+    },
+
+ {
+      "key": "天天影视",
+      "name": "天天┃影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  {
+      "key": "瓜子┃影视",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "荐片弹幕",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+   {
+      "key": "xbpq_鲨鱼",
+      "name": "鲨鱼┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "class=\"detail-sketch\"&&<br",
+        "分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna",
+        "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"
+      }
+    },
+    {
+      "key": "星辰xBPQ",
+      "name": "星辰┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
+        "简介": "盒子迷友情提醒🔺勿信广告，避免受骗🔺+class=\"detail-sketch\">&&</span>",
+        "线路数组": "#playlist&&</li>",
+        "线路标题": "盒子迷💠+>&&</a>[排序:神马云播>阿里云播>]",
+        "播放标题": ">&&<[不包含:1080P]"
+      }
+    },
     {
       "key": "机器人弹幕",
       "name": "🔥┃MYONG推荐┃秒播",
