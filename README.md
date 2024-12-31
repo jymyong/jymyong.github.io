@@ -37,7 +37,7 @@
 ● GUI for SingBox：🔰https://github.com/GUI-for-Cores/GUI.for.SingBox
 
 
-# 📺 直播源汇总（不断更新中…）   
+# 📺 直播源汇总………   
 
 ● iptv-api：IPTV电视直播源更新工具
 [链接](https://github.com/Guovin/iptv-api)  
@@ -57,14 +57,14 @@
 ● 直播源相关资源汇总: IPTV、M3U
 [链接](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8#%E5%B7%A5%E5%85%B7)  
 
-● Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
-[链接 ](https://github.com/Ftindy/IPTV-URL) 
-
 ● IPTVindex: 电视直播、影视点播、电脑软件
 [链接](https://www.iptvindex.com/)  
 
 ● fanmingming/live: 国内可直连的直播源分享项目，永久免费，支持IPv4/IPv6双栈访问
 [链接](https://github.com/fanmingming/live)  
+
+● TVBoxSource: TVBox源以及仓库源、直播源等
+[链接](https://github.com/felixiao/tvboxsource)  
 
 ● m3u 直播源：佛系更新
 [链接](https://github.com/YanG-1989/m3u)  
@@ -75,8 +75,9 @@
 ● Rivens7/Livelist: IPTV-ipv6直播源同步及常看直播，基于Moexin/IPTV项目修改
 [链接](https://github.com/Rivens7/Livelist)  
 
-● TVBoxSource: TVBox源以及仓库源、直播源等
-[链接](https://github.com/felixiao/tvboxsource)  
+● Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
+[链接 ](https://github.com/Ftindy/IPTV-URL) 
+
 
 # ⭐ 影视源接口分享 影视仓配置接口大全
 
