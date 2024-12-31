@@ -54,6 +54,9 @@
 ● 直播源列表: 主要电视节目
 [链接](http://epg.51zmt.top:8000/)  
 
+● flowus-TVBox接口及客户端，长期更新
+[链接](https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56)  
+
 ● 直播源相关资源汇总: IPTV、M3U
 [链接](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8#%E5%B7%A5%E5%85%B7)  
 
