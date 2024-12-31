@@ -1132,6 +1132,28 @@ CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/322
 食叔牛膝盖骨,https://vd2.bdstatic.com/mda-neqaikd1xvvtrc2a/480p/h264/1653464493901543639/mda-neqaikd1xvvtrc2a.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033339-0-0-fccf02e69c19c9227ebee50760846d7e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3539483479&vid=8419620275932311899&abtest=all
 食叔肥肠鹅,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033379-0-0-2321e8dcc8049dd5833ded28592aa557&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3579472476&vid=5831581271697130378&abtest=all
 食叔馍包羊腿,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033428-0-0-1ae329bc1264912e601d4e999f52cd24&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028519303&vid=778061406411546269&abtest=all
+野生厨房第二季第01期,https://s1.fsvod1.com/20220303/ab872qec/index.m3u8
+野生厨房第二季第02期,https://s1.fsvod1.com/20220303/YcKfp571/index.m3u8
+野生厨房第二季第03期,https://s1.fsvod1.com/20220303/SGoiJaUA/index.m3u8
+野生厨房第二季第04期,https://s1.fsvod1.com/20220303/WoC4OKyG/index.m3u8
+野生厨房第二季第05期,https://s1.fsvod1.com/20220303/9pmRQZYh/index.m3u8
+野生厨房第二季第06期,https://s1.fsvod1.com/20220303/IzGIgTj3/index.m3u8
+野生厨房第二季第07期,https://s1.fsvod1.com/20220303/be1BZEic/index.m3u8
+野生厨房第二季第08期,https://s1.fsvod1.com/20220303/Sytu8GOL/index.m3u8
+野生厨房第二季第09期,https://s1.fsvod1.com/20220303/9w8s7bGG/index.m3u8
+野生厨房第二季第10期,https://s1.fsvod1.com/20220303/J4qEJG1H/index.m3u8
+野生厨房第二季第11期,https://s1.fsvod1.com/20220303/lhaSCE4V/index.m3u8
+野生厨房第二季第12期,https://s1.fsvod1.com/20220303/2k4fIXZE/index.m3u8
+味道掌门20220422,https://s5.fsvod1.com/20220423/kwhGFXej/index.m3u8
+味道掌门20220429,https://s5.fsvod1.com/20220430/PvgsosxS/index.m3u8
+味道掌门20220506,https://s5.fsvod1.com/20220507/XLiA3kNP/index.m3u8
+味道掌门20220513,https://s5.fsvod1.com/20220514/PCzsyLb9/index.m3u8
+味道掌门20220520,https://s7.fsvod1.com/20220528/8T7LebML/index.m3u8
+味道掌门20220527,https://s7.fsvod1.com/20220528/EQLREd5w/index.m3u8
+味道掌门20220603,https://s7.fsvod1.com/20220604/jPAmB6HO/index.m3u8
+味道掌门20220610,https://s7.fsvod1.com/20220611/0rIzhnTD/index.m3u8
+味道掌门20220617,https://s7.fsvod1.com/20220618/1UOzEQH2/index.m3u8
+
 
 📽愉快观影,#genre#
 凌儿影院✔原,https://fmbox.cc/公众号玉玉软件库/tv/douyu.php?id=1377142
