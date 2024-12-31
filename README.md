@@ -63,7 +63,7 @@
 ● fanmingming/live: 国内可直连的直播源分享项目，永久免费，支持IPv4/IPv6双栈访问
 [链接](https://github.com/fanmingming/live)  
 
-● TVBoxSource: TVBox源以及仓库源、直播源等
+● TVBoxSource: TVBox源以及仓库源、直播源，tvbox配置汇总
 [链接](https://github.com/felixiao/tvboxsource)  
 
 ● m3u 直播源：佛系更新
