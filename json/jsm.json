@@ -1,5 +1,5 @@
 {
-  "spider": "./json/jar/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
+  "spider": "./jar/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
   "lives": [
     {
       "name": "fmm",
