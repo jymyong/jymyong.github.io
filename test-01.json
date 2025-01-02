@@ -289,7 +289,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "豪华资源",
@@ -380,7 +380,7 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       },
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "晴天",
@@ -395,7 +395,7 @@
         "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
       },
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "Freeok",
@@ -416,7 +416,7 @@
         "主演": "主演：&&</div>",
         "简介": "<p>&&</p>"
       },
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "奇优",
@@ -426,8 +426,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./jar/奇优.json",
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "ext": "./json/jar/奇优.json",
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "云播",
@@ -464,7 +464,7 @@
         "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       },
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "非凡",
@@ -499,7 +499,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "索尼",
@@ -535,7 +535,7 @@
         "海外动漫",
         "影视解说"
       ],
-      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./json/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "卧龙资源",
@@ -1079,8 +1079,8 @@
       "key": "drpy_js_磁力熊搜索",
       "name": "搜索 | 磁力熊[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/cilixiong.js",
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/cilixiong.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1
@@ -1093,179 +1093,179 @@
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "./lib/lf_search3_min.js"
+      "api": "./json/lib/lf_search3_min.js"
     },
     {
       "key": "drpy_js_荐片",
       "name": "影视 | 荐片[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./js/荐片.js",
+      "ext": "./json/js/荐片.js",
       "timeout": 30
     },
     {
       "key": "drpy_js_快看",
       "name": "影视 | 快看[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/快看.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/快看.js"
     },
     {
       "key": "drpy_js_低端",
       "name": "影视 | 低端[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/ddys_d.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/ddys_d.js"
     },
     {
       "key": "drpy_js_南瓜影视",
       "name": "影视 | 南瓜影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/南瓜影视.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/南瓜影视.js"
     },
     {
       "key": "drpy_js_两个BT",
       "name": "影视 | 两个BT[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/两个BT.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/两个BT.js"
     },
     {
       "key": "drpy_js_农民",
       "name": "影视 | 农民影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/农民影视.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/农民影视.js"
     },
     {
       "key": "drpy_js_在线之家",
       "name": "影视 | 在线之家[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/在线之家.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/在线之家.js"
     },
     {
       "key": "drpy_js_凌云影视",
       "name": "影视 | 凌云影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/凌云影视.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/凌云影视.js"
     },
     {
       "key": "drpy_js_电影先生",
       "name": "影视 | 电影先生[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/电影先生.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/电影先生.js"
     },
     {
       "key": "drpy_js_爱迪影视",
       "name": "影视 | 爱迪影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱迪影视.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/爱迪影视.js"
     },
     {
       "key": "drpy_js_北川影视",
       "name": "影视 | 北川影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/北川影视.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/北川影视.js"
     },
     {
       "key": "drpy_js_蛋蛋赞",
       "name": "影视 | 蛋蛋赞[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/蛋蛋赞.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/蛋蛋赞.js"
     },
     {
       "key": "drpy_js_看了么",
       "name": "影视 | 看了么[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/看了么.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/看了么.js"
     },
     {
       "key": "drpy_js_蓝光影院",
       "name": "影视 | 蓝光影院[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/蓝光影院.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/蓝光影院.js"
     },
     {
       "key": "drpy_js_小白菜电影",
       "name": "影视 | 小白菜电影[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/小白菜电影.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/小白菜电影.js"
     },
     {
       "key": "drpy_js_悠久影院",
       "name": "影视 | 悠久影院[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/悠久影院.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/悠久影院.js"
     },
     {
       "key": "drpy_js_中国人线上看",
       "name": "影视 | 中国人线上看[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/中国人线上看.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/中国人线上看.js"
     },
     {
       "key": "drpy_js_360影视",
       "name": "官源 | 360[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/360影视.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/百忙无果.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "官源 | 搜狗[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/菜狗.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/菜狗.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/优酷.js"
     },
     {
       "key": "drpy_js_xb6v",
       "name": "磁力 | 新版6v[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/xb6v.js",
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/xb6v.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1276,8 +1276,8 @@
       "key": "drpy_js_ddys",
       "name": "影视 | 低端影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/ddys.js",
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/ddys.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
@@ -1286,8 +1286,8 @@
       "key": "drpy_js_dydhhy",
       "name": "影视 | dydhhy[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/dydhhy.js",
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/dydhhy.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
@@ -1296,22 +1296,22 @@
       "key": "drpy_js_磁力熊[磁]",
       "name": "磁力 | 磁力熊[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./js/磁力熊[磁].js",
+      "ext": "./json/js/磁力熊[磁].js",
       "timeout": 30
     },
     {
       "key": "drpy_js_6V新版[磁]",
       "name": "磁力 | 6V新版[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./js/6V新版[磁].js",
+      "ext": "./json/js/6V新版[磁].js",
       "timeout": 30
     },
     {
@@ -1446,147 +1446,147 @@
       "key": "drpy_js_童趣",
       "name": "少儿 | 童趣[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "./js/童趣.js"
+      "ext": "./json/js/童趣.js"
     },
     {
       "key": "drpy_js_兔小贝",
       "name": "少儿 | 兔小贝[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "./js/兔小贝.js"
+      "ext": "./json/js/兔小贝.js"
     },
     {
       "key": "drpy_js_有声绘本网",
       "name": "少儿 | 有声绘本[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./js/有声绘本网.js"
+      "ext": "./json/js/有声绘本网.js"
     },
     {
       "key": "drpy_js_我的哔哩",
       "name": "弹幕 | 哔哩合集[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "./js/我的哔哩.js"
+      "ext": "./json/js/我的哔哩.js"
     },
     {
       "key": "drpy_js_哔哩直播",
       "name": "弹幕 | 哔哩直播[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "./js/哔哩直播.js"
+      "ext": "./json/js/哔哩直播.js"
     },
     {
       "key": "drpy_js_哔哩影视",
       "name": "弹幕 | 哔哩影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "./js/哔哩影视.js"
+      "ext": "./json/js/哔哩影视.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "体育 | JRKAN直播[js]",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./json/lib/drpy.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./js/JRKAN直播.js"
+      "ext": "./json/js/JRKAN直播.js"
     },
     {
       "key": "drpy_js_相声随身听",
       "name": "相声 | 相声随身听[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/相声随身听.js"
+      "ext": "./json/js/相声随身听.js"
     },
     {
       "key": "drpy_js_评书随身听",
       "name": "评书 | 评书随身听[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/评书随身听.js"
+      "ext": "./json/js/评书随身听.js"
     },
     {
       "key": "drpy_js_武享吧",
       "name": "格斗 | 武享吧[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/武享吧.js"
+      "ext": "./json/js/武享吧.js"
     },
     {
       "key": "drpy_js_DJ音乐",
       "name": "音频 | DJ音乐[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./js/DJ音乐.js"
+      "ext": "./json/js/DJ音乐.js"
     },
     {
       "key": "drpy_js_清风DJ",
       "name": "音频 | 清风DJ[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./js/清风DJ.js"
+      "ext": "./json/js/清风DJ.js"
     },
     {
       "key": "bb",
       "name": "请勿相信视频中任何广告",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/drpy.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/drpy.js"
     },
     {
       "key": "cc",
       "name": "🏅马氏一族观影愉快🏅",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/drpy.js"
+      "api": "./json/lib/drpy2.min.js",
+      "ext": "./json/js/drpy.js"
     }
   ],
   "doh": [
