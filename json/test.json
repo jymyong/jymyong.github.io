@@ -10,7 +10,7 @@
     }
   ],
   "sites": [
-        {
+    {
       "key": "豆瓣推荐",
       "name": "🌕永芬推荐",
       "type": 3,
@@ -19,7 +19,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-        {
+    {
       "key": "热播影视",
       "name": "热播┃影视",
       "type": 3,
@@ -111,8 +111,7 @@
       "api": "http://zb.hys.cool/app/lib/16万hys.js",
       "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
     },
-
- {
+    {
       "key": "天天影视",
       "name": "天天┃影视",
       "type": 3,
@@ -121,7 +120,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  {
+    {
       "key": "瓜子┃影视",
       "name": "瓜子┃影视",
       "type": 3,
@@ -143,7 +142,7 @@
         "danmu": true
       }
     },
-   {
+    {
       "key": "xbpq_鲨鱼",
       "name": "鲨鱼┃影视",
       "type": 3,
@@ -185,7 +184,7 @@
         "danmu": true
       }
     },
-     {
+    {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
       "type": 3,
@@ -206,7 +205,7 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
-     {
+    {
       "key": "比特",
       "name": "🍄比特┃秒播",
       "type": 3,
@@ -215,7 +214,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-  {
+    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
@@ -585,83 +584,83 @@
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
     },
-  {
-            "key": "木耳",
-            "name": "🎠┃木耳┃影视",
-            "type": 1,
-            "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 30,
-            "categories": [
-                "剧情片",
-                "动作片",
-                "冒险片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "歌舞片",
-                "战争片",
-                "经典片",
-                "动画电影",
-                "网络电影",
-                "其他片",
-                "国产剧",
-                "港剧",
-                "韩剧",
-                "日剧",
-                "泰剧",
-                "台剧",
-                "欧美剧",
-                "新马剧",
-                "其他剧",
-                "国产综艺",
-                "港台综艺",
-                "韩国综艺",
-                "日本综艺",
-                "欧美综艺",
-                "新马泰综艺",
-                "其他综艺",
-                "古装短剧",
-                "虐恋短剧",
-                "逆袭短剧",
-                "神豪短剧",
-                "重生短剧",
-                "复仇短剧",
-                "穿越短剧",
-                "甜宠短剧",
-                "强者短剧",
-                "欧美动漫",
-                "日本动漫",
-                "韩国动漫",
-                "国产动漫",
-                "港台动漫"
-            ],
-            "header": {
-                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-            }
-        },
     {
-  "key": "纸条",
-  "name": "🗞纸条搜索",
-  "type": 3,
-  "api": "csp_XiaoZhiTiao",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728273278879/okjpg.txt;md5;0ee76d4b97fa67c46edbc51c85d64375",	
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "ext": {
-           "token": "file://TV/ali_token.txt"
-         },
-  "timeout": 15
-},
+      "key": "木耳",
+      "name": "🎠┃木耳┃影视",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "categories": [
+        "剧情片",
+        "动作片",
+        "冒险片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "歌舞片",
+        "战争片",
+        "经典片",
+        "动画电影",
+        "网络电影",
+        "其他片",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "台剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺",
+        "古装短剧",
+        "虐恋短剧",
+        "逆袭短剧",
+        "神豪短剧",
+        "重生短剧",
+        "复仇短剧",
+        "穿越短剧",
+        "甜宠短剧",
+        "强者短剧",
+        "欧美动漫",
+        "日本动漫",
+        "韩国动漫",
+        "国产动漫",
+        "港台动漫"
+      ],
+      "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "key": "纸条",
+      "name": "🗞纸条搜索",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728273278879/okjpg.txt;md5;0ee76d4b97fa67c46edbc51c85d64375",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt"
+      },
+      "timeout": 15
+    },
     {
       "key": "苹果影视",
       "name": "🔥┃苹果影视┃秒播",
@@ -841,7 +840,7 @@
       "key": "乐",
       "name": "云专属个人接口",
       "type": 1,
-      "api": "./lib/vod01",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "",
       "categories": [],
       "quickSearch": 0
@@ -850,10 +849,39 @@
       "key": "色南国资源",
       "name": "撸铁🔞南国",
       "type": 1,
-      "api": "./lib/vod02",
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "采集G(jkun)",
+      "name": "撸铁🍈甜瓜",
+      "type": 1,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.maozyapi.com",
+      "name": "撸铁🍊蜜橘",
+      "type": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1
+    },
+    {
+      "key": "api.maozyapi.com",
+      "name": "撸铁🔞【九】",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "recordable": 0
     },
     {
       "key": "cc",
