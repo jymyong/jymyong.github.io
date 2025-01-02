@@ -1545,9 +1545,9 @@
       "key": "drpy_js_武享吧",
       "name": "格斗 | 武享吧[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/武享吧.js"
+      "ext": "./json/js/武享吧.js"
     },
     {
       "key": "drpy_js_DJ音乐",
