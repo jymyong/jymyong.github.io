@@ -841,7 +841,7 @@
       "key": "乐",
       "name": "云专属个人接口",
       "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "api": "./json/lib/vod01",
       "playUrl": "",
       "categories": [],
       "quickSearch": 0
@@ -850,7 +850,7 @@
       "key": "色南国资源",
       "name": "撸铁🔞南国",
       "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "api": "./json/lib/vod02",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
