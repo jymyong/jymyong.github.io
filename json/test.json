@@ -865,7 +865,7 @@
       "filterable": 1
     },
     {
-      "key": "api.maozyapi.com",
+      "key": "蜜橘api.maozyapi.com",
       "name": "撸铁🍊蜜橘",
       "type": 1,
       "style": {
@@ -876,7 +876,7 @@
       "searchable": 1
     },
     {
-      "key": "api.maozyapi.com",
+      "key": "九api.maozyapi.com",
       "name": "撸铁🔞【九】",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
