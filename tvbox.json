@@ -54,19 +54,13 @@
       "jar": "./json/jar/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
     {
-      "key": "玩偶",
-      "name": "👽MYONG┃4K弹幕",
+      "key": "机器人",
+      "name": "👽MYONG┃机器人",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+      "filterable": 1      
     },
     {
       "key": "YGP",
