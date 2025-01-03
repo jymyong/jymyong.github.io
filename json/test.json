@@ -840,7 +840,8 @@
       "key": "乐",
       "name": "云专属个人接口",
       "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/lib/vod01"
       "playUrl": "",
       "categories": [],
       "quickSearch": 0
