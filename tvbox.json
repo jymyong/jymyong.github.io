@@ -1406,22 +1406,29 @@
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果[js]",
       "type": 3,
-      "api": "./json/lib/drpy2.min.js",
+      "api": "./json/FTY/drpy2.min.js",
       "ext": "./json/js/百忙无果.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯[js]",
       "type": 3,
-      "api": "./json/lib/drpy2.min.js",
+      "api": "./json/FTY/drpy2.min.js",
       "ext": "./json/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺[js]",
       "type": 3,
-      "api": "./json/lib/drpy2.min.js",
+      "api": "./json/FTY/drpy2.min.js",
       "ext": "./json/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷[js]",
+      "type": 3,
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/js/优酷.js"
     },
     {
       "key": "drpy_js_菜狗",
@@ -1429,13 +1436,6 @@
       "type": 3,
       "api": "./json/lib/drpy2.min.js",
       "ext": "./json/js/菜狗.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷[js]",
-      "type": 3,
-      "api": "./json/lib/drpy2.min.js",
-      "ext": "./json/js/优酷.js"
     },
     {
       "key": "drpy_js_xb6v",
