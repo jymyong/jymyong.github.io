@@ -198,8 +198,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./FTY/drpy2.min.js",
-      "ext": "./FTY/jp.js"
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/FTY/jp.js"
     },
     {
       "key": "Bili",
@@ -1522,8 +1522,8 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./FTY/drpy2.min.js",
-      "ext": "./FTY/酷奇MV.js",
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/FTY/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1536,8 +1536,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./FTY/drpy2.js",
-      "ext": "./FTY/huya2.js",
+      "api": "./json/FTY/drpy2.js",
+      "ext": "./json/FTY/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1551,8 +1551,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./FTY/drpy2.min.js",
-      "ext": "./FTY/斗鱼直播.js",
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/FTY/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1566,8 +1566,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./FTY/drpy2.min.js",
-      "ext": "./FTY/有声小说吧.js",
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/FTY/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -1593,8 +1593,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./FTY/drpy2.min.js",
-      "ext": "./FTY/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./json/FTY/drpy2.min.js",
+      "ext": "./json/FTY/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1616,7 +1616,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./FTY/少儿教育.json"
+        "json": "./json/FTY/少儿教育.json"
       }
     },
     {
