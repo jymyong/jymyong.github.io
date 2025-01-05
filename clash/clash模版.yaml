@@ -1,3 +1,12 @@
+
+//
+优选订阅
+https://workervless2sub-95x.pages.dev/sub?host=[your host]&uuid=[your uuid]&path=[your path]
+↓
+↓
+//
+
+
 port: 7890
 socks-port: 7891
 allow-lan: true
