@@ -51,3 +51,13 @@ trojan://telegram-id-privatevpns@54.216.42.168:22222?type=tcp&security=tls&sni=t
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.18:9025#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_12
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.132.251:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_2
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.161.59.194:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_8
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://3723507166611775488@87.120.167.51:443?type=tcp&security=tls&sni=concrete-buzzard.boa152.lol#%F0%9F%87%A7%F0%9F%87%AC_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@103.106.2.221:2198?security=none&type=tcp&encryption=none&headerType=none#%E6%9C%AA%E7%9F%A5
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.131.106.53:2198?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
+vless://1681ec0a-8d65-40f1-a220-55a2e9f22b4b@209.38.219.225:2052?security=none&type=ws&sni=de1.v4vless.xyz&host=de1.v4vless.xyz.&encryption=none&type=ws&path=%2Fvless-ws&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0_1
+trojan://3723507166611775488@neutral-magpie.treefrog761.one:443?type=tcp&security=tls&sni=neutral-magpie.treefrog761.one#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.89.164.115:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.131.106.53:2198?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
+vless://8167f943-0513-5c93-bda3-2ec02522cd8a@151.101.129.6:80?security=none&type=ws&host=PABLO-MOSTAFAA.COM&encryption=none&type=ws&sni=PABLO-MOSTAFAA.COM&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0_2
