@@ -1,6 +1,14 @@
 {
-  "spider": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-  "wallpaper": "https://api.likepoems.com/img/bing",
+  "spider": "./json/jar/fan.txt;md5;9136A7F6AEC51C5B18E911121774AB5F",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://jymyong.github.io/live/mzs.txt",
+      "playerType": 2
+    }
+  ],
   "sites": [
     {
       "key": "csp_Douban",
