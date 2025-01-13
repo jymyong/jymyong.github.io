@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🌕永芬推荐",
+      "name": "🌕马氏一族观影愉快",
       "type": 3,
       "api": "./json/lib/drpy2.min.js",
       "ext": "./json/js/drpy.js",
@@ -28,6 +28,16 @@
       "api": "./json/lib/drpy2.min.js",
       "ext": "./json/js/TVB云播.js"
     },
+    {
+      "key": "客星",
+      "name": "客星┃影视",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+    },
+
     {
       "key": "热播影视",
       "name": "👀热播|多线",
@@ -1844,7 +1854,7 @@
     },
     {
       "key": "cc",
-      "name": "🏅马氏一族观影愉快🏅",
+      "name": "🏅马氏一族快乐每一天🏅",
       "type": 3,
       "api": "./json/lib/drpy2.min.js",
       "ext": "./json/js/drpy.js"
