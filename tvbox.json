@@ -1270,12 +1270,14 @@
       "key": "drpy_js_荐片",
       "name": "影视 | 荐片[js]",
       "type": 3,
-      "api": "./json/lib/drpy2.min.js",
+      "api": "csp_Jianpian",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/js/荐片.js",
-      "timeout": 30
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "drpy_js_快看",
