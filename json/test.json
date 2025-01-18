@@ -20,17 +20,6 @@
       "filterable": 0
     },
     {
-      "key": "小苹果弹幕",
-      "name": "🔥小苹果┃xs弹幕",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-    {
       "key": "热播",
       "name": "🍷热播┃FTY多线",
       "type": 3,
