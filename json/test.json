@@ -19,18 +19,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-        {
-      "key": "小苹果弹幕",
-      "name": "🔥小苹果┃xs弹幕",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-       }
-    },
     {
       "key": "热播",
       "name": "🍷热播┃FTY多线",
@@ -136,6 +124,209 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
     },
+   {
+      "key": "天天",
+      "name": "👽天天┃pg",
+      "jar": "./pxper/jar_pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "木耳",
+      "name": "🎈木耳┃OK",
+      "type": 1,
+      "jar": "./exper/jar_ok.jar;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 10,
+      "categories": [
+        "剧情片",
+        "动作片",
+        "冒险片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "歌舞片",
+        "战争片",
+        "经典片",
+        "动画电影",
+        "网络电影",
+        "其他片",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "台剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺",
+        "古装短剧",
+        "虐恋短剧",
+        "逆袭短剧",
+        "神豪短剧",
+        "重生短剧",
+        "复仇短剧",
+        "穿越短剧",
+        "甜宠短剧",
+        "强者短剧",
+        "欧美动漫",
+        "日本动漫",
+        "韩国动漫",
+        "国产动漫",
+        "港台动漫"
+      ],
+      "header": {
+        "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "华为",
+      "name": "🍇华为┃ok秒播",
+      "type": 1,
+      "jar": "./exper/jar_ok.jar;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "米兔弹幕",
+      "name": "⚡️米兔┃js弹幕",
+      "type": 3,
+      "api": "./exper/api_js.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./exper/ext_mitu.js"
+    },
+    {
+      "key": "hipy_瓜子",
+      "name": "❤️瓜子┃js纯净",
+      "type": 3,
+      "api": "./exper/api_js.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./exper/ext_guazi.js"
+    },
+    {
+      "key": "saohuo",
+      "name": "🔥骚火┃XBPQ直连",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "2",
+      "jar": "./exper/jar_XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+    {
+      "key": "酷影视",
+      "name": "😎酷影┃xs蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+    {
+      "key": "快看影视",
+      "name": "🔥快看┃xs影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "五五影视",
+      "name": "🔥五五┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./exper/ext_55yingshi.jar"
+    },
+    {
+      "key": "忍者影视",
+      "name": "🔥忍者┃xsAPP",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rzys.xyz/"
+    },
+    {
+      "key": "星芽短剧",
+      "name": "🔥星芽┃xs短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "cntv",
+      "name": "🌔央视[cntv]",
+      "type": 3,
+      "jar": "./exper/jar_pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
+      "api": "./exper/api_cntv.js"
+    },
+    {
+      "key": "lf_js_lf_live",
+      "name": "📺︎直播┃lf_live",
+      "type": 3,
+      "api": "./exper/api_lf_live.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "./exper/ext_lf_live.txt"
+    },
+
+
+
+
+    
     {
       "key": "热播影视",
       "name": "热播┃影视",
