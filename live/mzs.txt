@@ -118,6 +118,18 @@ CCTV-15,http://112.122.12.61:9003/hls/16/index.m3u8
 湖南卫视,http://58.221.214.82:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://221.233.192.152:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV-1,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv1$订阅源-玉玉
+CCTV-2,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2$订阅源-玉玉
+CCTV-3,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv3$订阅源-玉玉
+CCTV-4,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4$订阅源-玉玉
+CCTV-5,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5$订阅源-玉玉
+CCTV-8,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv8$订阅源-玉玉
+CCTV-10,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv10$订阅源-玉玉
+CCTV-11,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv11$订阅源-玉玉
+CCTV-12,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv12$订阅源-玉玉
+CCTV-13,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv13$订阅源-玉玉
+CCTV-15,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv15$订阅源-玉玉
+江苏卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jsws$订阅源-玉玉
 
 🥣乡村美食,#genre#
 鲍汁豆腐,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
