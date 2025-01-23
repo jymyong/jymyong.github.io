@@ -948,20 +948,6 @@
       ]
     },
     {
-      "key": "Lib001",
-      "name": "🔥┃立播夸克┃4K",
-      "type": 3,
-      "jar": "http://mzjk.top/禁止贩卖/lib/fty.jar",
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
       "key": "haiwaikan",
       "name": "😻海外看(墙外)",
       "type": 1,
