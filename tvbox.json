@@ -174,6 +174,26 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
+     {
+    "key":"Lib",
+    "name": "🌟立播┃秒播",
+    "type": 3,
+    "api": "csp_Libvio",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable":1,
+    "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}
+    },
+    {
+      "key": "文采",
+      "name": "文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "低端",
       "name": "⏮️低端┃外剧",
@@ -249,16 +269,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
-      "key": "文采",
-      "name": "文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "量子",
