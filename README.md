@@ -76,7 +76,7 @@
 [链接](https://github.com/joevess/IPTV)  
 
 ● Rivens7/Livelist: IPTV-ipv6直播源同步及常看直播，基于Moexin/IPTV项目修改
-[链接](https://github.com/Rivens7/Livelist)  
+[Rivens7链接](https://github.com/Rivens7/Livelist)    [Moexin链接](https://github.com/Moexin/IPTV/tree/Files)
 
 ● Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
 [链接 ](https://github.com/Ftindy/IPTV-URL) 
