@@ -3,9 +3,8 @@
 
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-Rivens7
 CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-Rivens7
-CCTV-3,http://221.233.192.152:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-1920x1080
-CCTV-3,http://101.66.199.24:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
-CCTV-3,http://101.66.199.147:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
+CCTV-3,http://113.57.111.4:1111/tsfile/live/1002_1.m3u8
+CCTV-3,http://114.95.156.205:4022/rtp/239.45.1.68:5140
 CCTV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-Rivens7
 CCTV-5,http://221.233.192.152:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-1920x1080
 CCTV-5,http://101.66.199.24:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
@@ -165,7 +164,6 @@ CCTV-2,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
 CCTV-2,http://113.57.111.4:1111/tsfile/live/1001_1.m3u8
 CCTV-3,http://117.144.58.42:35455/gaoma/cctv3.m3u8
 CCTV-3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
-CCTV-3,http://113.57.111.4:1111/tsfile/live/1002_1.m3u8
 CCTV-3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8
 CCTV-4,http://117.144.58.42:35455/gaoma/cctv4k.m3u8
 CCTV-4,http://3.itv.nctv.top:35455/gaoma/cctv4k.m3u8
@@ -230,7 +228,6 @@ CCTV-17,http://113.57.111.4:1111/tsfile/live/1014_1.m3u8
 CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8
 CCTV-1,http://112.122.12.61:9003/hls/1/index.m3u8
 CCTV-2,http://112.122.12.61:9003/hls/2/index.m3u8
-CCTV-3,http://114.95.156.205:4022/rtp/239.45.1.68:5140
 CCTV-4,http://112.122.12.61:9003/hls/4/index.m3u8
 CCTV-5+,http://112.122.12.61:9003/hls/6/index.m3u8
 CCTV-6,http://112.122.12.61:9003/hls/7/index.m3u8
@@ -271,6 +268,9 @@ CCTV-15,http://112.122.12.61:9003/hls/16/index.m3u8
 湖南卫视,http://113.57.111.4:1111/tsfile/live/1016_1.m3u8
 湖南卫视,http://58.221.214.82:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://221.233.192.152:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://221.233.192.152:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-1920x1080
+CCTV-3,http://101.66.199.24:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
+CCTV-3,http://101.66.199.147:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 
 🥣乡村美食,#genre#
 鲍汁豆腐,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
