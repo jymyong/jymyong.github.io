@@ -1,6 +1,25 @@
 
 📺马老爷子常看频道,#genre#
 
+CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源zb
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源zb
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源zb
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源zb
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源zb
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源zb
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源zb
+CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源zb
+CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源zb
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源zb
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源zb
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源zb
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源zb
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源zb
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源zb
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源zb
+CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16$订阅源zb
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源zb
+
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-Rivens7
 CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-Rivens7
 CCTV-3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
@@ -33,24 +52,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 湖南卫视,http://101.66.199.24:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 湖南卫视,http://101.66.199.147:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 
-CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源zb
-CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源zb
-CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源zb
-CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源zb
-CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源zb
-CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源zb
-CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源zb
-CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源zb
-CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源zb
-CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源zb
-CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源zb
-CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源zb
-CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源zb
-CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源zb
-CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源zb
-CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源zb
-CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16$订阅源zb
-CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源zb
 
 CCTV-1,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv1$订阅源-玉玉
 CCTV-2,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2$订阅源-玉玉
