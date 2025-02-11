@@ -37,6 +37,25 @@ CCTV-13,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv13$订阅�
 CCTV-15,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv15$订阅源-玉玉
 江苏卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jsws$订阅源-玉玉
 
+CCTV-1,http://newtv.fun:35455/gaoma/cctv1.m3u8$newtv-3840x2160
+CCTV-2,http://newtv.fun:35455/gaoma/cctv2.m3u8$newtv-3840x2160
+CCTV-3,http://newtv.fun:35455/gaoma/cctv3.m3u8$newtv-3840x2160
+CCTV-4,http://newtv.fun:35455/gaoma/cctv4k.m3u8$newtv-3840x2160
+CCTV-5,http://newtv.fun:35455/gaoma/cctv5.m3u8$newtv-3840x2160
+CCTV-5+,http://newtv.fun:35455/gaoma/cctv5p.m3u8$newtv-3840x2160
+CCTV-6,http://newtv.fun:35455/gaoma/cctv6.m3u8$newtv-3840x2160
+CCTV-7,http://newtv.fun:35455/gaoma/cctv7.m3u8$newtv-3840x2160
+CCTV-8,http://newtv.fun:35455/gaoma/cctv8.m3u8$newtv-3840x2160
+CCTV-9,http://newtv.fun:35455/gaoma/cctv9.m3u8$newtv-3840x2160
+CCTV-10,http://newtv.fun:35455/gaoma/cctv10.m3u8$newtv-3840x2160
+CCTV-11,http://newtv.fun:35455/gaoma/cctv11.m3u8$newtv-3840x2160
+CCTV-12,http://newtv.fun:35455/gaoma/cctv12.m3u8$newtv-3840x2160
+CCTV-13,http://newtv.fun:35455/gaoma/cctv13.m3u8$newtv-3840x2160
+CCTV-14,http://newtv.fun:35455/gaoma/cctv14.m3u8$newtv-3840x2160
+CCTV-15,http://newtv.fun:35455/gaoma/cctv15.m3u8$newtv-3840x2160
+CCTV-16,http://newtv.fun:35455/gaoma/cctv16.m3u8$newtv-3840x2160
+CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8$newtv-3840x2160
+
 CCTV-1,http://101.66.198.79:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 CCTV-1,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-1,http://101.66.199.136:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
