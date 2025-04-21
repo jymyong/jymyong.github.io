@@ -23,7 +23,7 @@
 
 🔰[Clash节点](https://github.com/aiboboxx/clashfree)🔰   🔰[v2Ray节点](https://github.com/aiboboxx/v2rayfree)🔰
 
-🔰[free v2ray](https://github.com/barry-far/V2ray-Configs)🔰   🔰[free v2ray](https://github.com/Barabama/FreeNodes)🔰
+🔰[free v2ray](https://github.com/barry-far/V2ray-Configs)🔰   🔰[free v2ray](https://github.com/Barabama/FreeNodes)🔰   🔰[free v2ray](https://github.com/Pawdroid/Free-servers)🔰   🔰🔰
     
 
 # 📘 各类客户端
