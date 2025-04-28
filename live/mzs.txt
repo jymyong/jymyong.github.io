@@ -6,7 +6,7 @@ CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.130:5140$yssj02
 CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.143:5140$yssj03					
 CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.201.118:5140$yssj04					
 CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.201.222:5140$yssj05					
-CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.200.25:5140	$yssj01				
+CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.200.25:5140$yssj01				
 CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.200.100:5140$yssj02					
 CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.201.119:5140$yssj03					
 CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.200.107:5140$yssj01					
