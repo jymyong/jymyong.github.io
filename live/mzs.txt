@@ -377,6 +377,8 @@ CCTV17,http://ycsj.aguihome.com:4022/udp/233.50.200.113:5140$yssj01
 女神电影✔原,https://fmbox.cc/公众号玉玉软件库/tv/douyu.php?id=747764
 华语经典✔原,https://fmbox.cc/公众号玉玉软件库/tv/douyu.php?id=434971
 欧美大片✔原,https://fmbox.cc/公众号玉玉软件库/tv/douyu.php?id=2793084
+醉拳,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
 第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
 热辣滚烫TH,https://ikcdn01.ikzybf.com/20240213/qeySwP3F/2000kb/hls/index.m3u8
 飞驰人生2TH,https://v.gsuus.com/play/7e5k0kqb/index.m3u8
