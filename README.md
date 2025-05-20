@@ -472,4 +472,4 @@ PROXYIP：[地址1](https://ipdb.030101.xyz/bestproxy/)  [地址2](https://www.n
 
 
 
-本页面只是收集Box，自用请勿宣传。
+# 本页面只是收集、自用，请勿宣传。
