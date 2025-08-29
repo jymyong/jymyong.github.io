@@ -83,6 +83,15 @@
 ● Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
 [链接 ](https://github.com/Ftindy/IPTV-URL) 
 
+● https://github.com/Guovin/iptv-api   
+打开项目后组播源地址位于 output/rtp 目录下。
+
+● https://github.com/xisohi/CHINA-IPTV
+在这个项目的“源地址”一栏中，你可以找到对应你的省份及运营商的直播源，把对应地址粘贴在 VLC Player 中进行播放。如果可以播放，那么恭喜你。
+
+● https://github.com/wcb1969/iptv
+打开项目后，使用 CTRL+F 搜索你的省份和运营商，打开该链接后，同样点击 Raw，然后复制地址栏中的地址。将其粘贴在 VLC Player 中尝试进行播放。
+
 
 # ⭐ 影视源接口分享 影视仓配置接口大全
 
