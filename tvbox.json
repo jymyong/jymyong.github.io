@@ -227,6 +227,82 @@
       "ext": "./json/FTY/jp.js"
     },
     {
+      "key": "alllive",
+      "name": "📽️一直播┃直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "seed",
+      "name": "💡聚剧剧┃三盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "changeable": 0,
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+{
+      "key": "鲸鱼",
+      "name": "👀鲸鱼┃秒播",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
+    },
+{
+      "key": "下饭",
+      "name": "🍙下饭┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
+    },
+{
+      "key": "Bili",
+      "name": "🅱哔哔合集┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+      }
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哔演唱会┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+      }
+    },
+    {
       "key": "Bili",
       "name": "🎒哔哔┃合集",
       "type": 3,
@@ -1659,30 +1735,6 @@
       "ext": "./json/js/有声绘本网.js"
     },
     {
-      "key": "drpy_js_我的哔哩",
-      "name": "弹幕 | 哔哩合集[js]",
-      "type": 3,
-      "api": "./json/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "./json/js/我的哔哩.js"
-    },
-    {
-      "key": "drpy_js_哔哩直播",
-      "name": "弹幕 | 哔哩直播[js]",
-      "type": 3,
-      "api": "./json/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "./json/js/哔哩直播.js"
-    },
-    {
       "key": "drpy_js_哔哩影视",
       "name": "弹幕 | 哔哩影视[js]",
       "type": 3,
@@ -2316,3 +2368,4 @@
     "cms.qdwght.com"
   ]
 }
+
