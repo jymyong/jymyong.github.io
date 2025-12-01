@@ -24,12 +24,12 @@
       "name": "TV-卧龙点播",
       "type": 3,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }，
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
     {
       "key": "热播",
       "name": "🍷热播┃FTY多线",
