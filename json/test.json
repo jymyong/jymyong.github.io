@@ -19,17 +19,12 @@
       "quickSearch": 0,
       "filterable": 0
     },
-   {
+    {
       "key": "TV-卧龙点播",
       "name": "TV-卧龙点播",
-      "type": 3,
-      "jar": "./exper/jar_fty.jar;md5;262a678665ac3d5c727a8c812b31dfdf",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
+      "searchable": 1
+    }，
     {
       "key": "热播",
       "name": "🍷热播┃FTY多线",
