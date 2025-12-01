@@ -20,6 +20,15 @@
       "filterable": 0
     },
     {
+      "key": "卧龙点播",
+      "name": "TV-卧龙点播",
+      "type": 3,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+      "detail": "https://collect.wolongzyw.com"
+    },
+    {
       "key": "热播",
       "name": "🍷热播┃FTY多线",
       "type": 3,
