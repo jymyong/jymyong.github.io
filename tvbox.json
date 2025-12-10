@@ -168,7 +168,7 @@
       "name": "TV-豆瓣资源",
       "type": 1,
       "api": "https://caiji.dbzy.tv/api.php/provide/vod",
-      "detail": "https://caiji.dbzy.tv"
+      "detail": "https://caiji.dbzy.tv",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2583,6 +2583,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
