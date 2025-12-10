@@ -164,11 +164,11 @@
       ]
     },
     {
-      "key": "TV-魔爪资源",
-      "name": "TV-魔爪资源",
+      "key": "TV-豆瓣资源",
+      "name": "TV-豆瓣资源",
       "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "detail": "https://mozhuazy.com",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "detail": "https://caiji.dbzy.tv"
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -204,6 +204,7 @@
       "name": "TV-天涯资源",
       "type": 1,
       "api": "https://tyyszy.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2582,6 +2583,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
