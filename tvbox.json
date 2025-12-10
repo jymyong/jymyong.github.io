@@ -168,6 +168,7 @@
       "name": "TV-魔爪资源",
       "type": 1,
       "api": "https://mozhuazy.com/api.php/provide/vod",
+      "detail": "https://mozhuazy.com",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2581,6 +2582,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
