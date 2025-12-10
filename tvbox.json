@@ -25,6 +25,7 @@
       "name": "TV-卧龙点播",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "detail": "https://collect.wolongzyw.com",    
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -60,6 +61,7 @@
       "name": "TV-电影天堂资源",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -95,6 +97,7 @@
       "name": "TV-红牛资源",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy2.com",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2578,5 +2581,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
