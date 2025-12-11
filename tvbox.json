@@ -217,37 +217,41 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "csp_Tvyb",
-      "name": "☁️️┃云播┃肥猫",
+      "key": "零度",
+      "name": "🥶┃零度┃肥猫",
       "type": 3,
-      "api": "csp_Tvyb"
+      "api": "https://6296.kstore.vip/lingdu.py"
+    }, 
+        {
+      "key": "csp_Bili",
+      "name": "🅱┃️哔哩┃肥猫",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "./bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     },
-    {
-      "key": "csp_Qiyou",
-      "name": "🥝┃奇优┃影视肥猫",
+        {
+      "key": "Bili",
+      "name": "🅱哔哔合集┃饭播",
       "type": 3,
-      "api": "csp_Qiyou"
-    },
-    {
-      "key": "荐片",
-      "name": "🎬┃荐片┃肥猫",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "https://ev2089.zxbwv.com"
-    },
-    {
-      "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃肥猫",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
-    {
-      "key": "永永",
-      "name": "♾️┃永永┃肥猫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+      }
     },
     {
       "key": "TV-卧龙点播",
@@ -2040,6 +2044,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
