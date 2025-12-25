@@ -1,5 +1,5 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2025/12/09/5280541da1ade1690d8d99efce29cb3c.jpg",
+  "spider": "./json/jar/spider-kaixin.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
@@ -1112,12 +1112,12 @@
       "key": "hipy_js_4k剧院",
       "name": "🎦4k剧院(drpy_t3)",
       "type": 3,
-      "api": "./api/drpy2.min.js",
+      "api": "./json/api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 6,
-      "ext": "./js/4k剧院.js"
+      "ext": "./json/js/4k剧院.js"
     },
     {
       "key": "小苹果弹幕版",
@@ -1147,47 +1147,47 @@
       "key": "爱奇异",
       "name": "🎦爱奇艺(官)",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/爱奇艺.js"
+      "api": "./json/api/drpy2.min.js",
+      "ext": "./json/js/爱奇艺.js"
     },
     {
       "key": "优酷",
       "name": "🎦优酷(官)",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/优酷.js"
+      "api": "./json/api/drpy2.min.js",
+      "ext": "./json/js/优酷.js"
     },
     {
       "key": "腾讯",
       "name": "🎦腾讯VIP(官)",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/腾讯VIP.js"
+      "api": "./json/api/drpy2.min.js",
+      "ext": "./json/js/腾讯VIP.js"
     },
     {
       "key": "芒果",
       "name": "🎦芒果(官)",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/芒果.js"
+      "api": "./json/api/drpy2.min.js",
+      "ext": "./json/js/芒果.js"
     },
     {
       "key": "搜狗",
       "name": "🎦搜狗(官)",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/搜狗.js"
+      "api": "./json/api/drpy2.min.js",
+      "ext": "./json/js/搜狗.js"
     },
     {
       "key": "央视大全",
       "name": "🌔央视大全",
       "type": 3,
-      "api": "./api/drpy2.min.js",
+      "api": "./json/api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/央视大全.js"
+      "ext": "./json/js/央视大全.js"
     },
     {
       "key": "haiwaikan",
