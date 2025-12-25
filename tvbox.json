@@ -3,13 +3,13 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
-      "name": "①直播",
+      "name": "①MYONG",
       "type": 0,
       "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
       "playerType": 2
     },
     {
-      "name": "②直播",
+      "name": "②CHINA-IPTV",
       "type": 0,
       "url": "https://raw.githubusercontent.com/xisohi/CHINA-IPTV/refs/heads/main/Unicast/jiangsu/mobile.txt",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
@@ -2021,4 +2021,5 @@
     }
   ]
 }
+
 
