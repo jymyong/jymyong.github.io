@@ -221,8 +221,8 @@
       "name": "🥶┃零度┃肥猫",
       "type": 3,
       "api": "https://6296.kstore.vip/lingdu.py"
-    }, 
-        {
+    },
+    {
       "key": "csp_Bili",
       "name": "🅱┃️哔哩┃肥猫",
       "type": 3,
@@ -237,7 +237,7 @@
         "ratio": 1.333
       }
     },
-        {
+    {
       "key": "Bili",
       "name": "🅱哔哔合集┃饭播",
       "type": 3,
@@ -1107,6 +1107,87 @@
         "日剧",
         "泰剧"
       ]
+    },
+    {
+      "key": "hipy_js_4k剧院",
+      "name": "🎦4k剧院(drpy_t3)",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 6,
+      "ext": "./js/4k剧院.js"
+    },
+    {
+      "key": "小苹果弹幕版",
+      "name": "🍎苹果┃弹幕",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🕵农民┃APP",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vip.wwgz.cn/"
+    },
+    {
+      "key": "爱奇异",
+      "name": "🎦爱奇艺(官)",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/爱奇艺.js"
+    },
+    {
+      "key": "优酷",
+      "name": "🎦优酷(官)",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/优酷.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "🎦腾讯VIP(官)",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/腾讯VIP.js"
+    },
+    {
+      "key": "芒果",
+      "name": "🎦芒果(官)",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/芒果.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "🎦搜狗(官)",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/搜狗.js"
+    },
+    {
+      "key": "央视大全",
+      "name": "🌔央视大全",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/央视大全.js"
     },
     {
       "key": "haiwaikan",
@@ -2044,11 +2125,3 @@
     "cms.qdwght.com"
   ]
 }
-
-
-
-
-
-
-
-
