@@ -5,7 +5,7 @@
     {
       "name": "①MYONG",
       "type": 0,
-      "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
+      "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/jymatt/kantv/refs/heads/gd/output/result.txt",
       "playerType": 2
     },
     {
@@ -2021,5 +2021,6 @@
     }
   ]
 }
+
 
 
