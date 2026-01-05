@@ -9,9 +9,9 @@
       "playerType": 2
     },
     {
-      "name": "②CHINA-IPTV",
+      "name": "②MZS",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/xisohi/CHINA-IPTV/refs/heads/main/Unicast/jiangsu/mobile.txt",
+      "url": "https://jymyong.github.io/live/mzs.txt",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
     }    
   ],
@@ -2021,6 +2021,7 @@
     }
   ]
 }
+
 
 
 
