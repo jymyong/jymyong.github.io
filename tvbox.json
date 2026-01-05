@@ -8,8 +8,14 @@
       "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/jymatt/kantv/refs/heads/gd/output/result.txt",
       "playerType": 2
     },
+      "name": "②output",
+      "type": 0,
+      "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+      "playerType": 2
+    },
     {
-      "name": "②MZS",
+      "name": "③MZS",
       "type": 0,
       "url": "https://jymyong.github.io/live/mzs.txt",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
@@ -2021,6 +2027,7 @@
     }
   ]
 }
+
 
 
 
