@@ -17,7 +17,7 @@
     {
       "name": "③MZS",
       "type": 0,
-      "url": "https://jymyong.github.io/live/mzs.txt",
+      "url": "./live/mzs.txt",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
     }    
   ],
@@ -2027,6 +2027,7 @@
     }
   ]
 }
+
 
 
 
