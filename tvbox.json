@@ -1,5 +1,5 @@
 {
-  "spider": "https://jsyfhome.zeabur.app/api/proxy/spider.jar",
+  "spider": "./json/jar/spider-kaixin.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
@@ -2027,6 +2027,7 @@
     }
   ]
 }
+
 
 
 
