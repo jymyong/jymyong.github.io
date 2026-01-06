@@ -1,5 +1,5 @@
 {
-  "spider": "./json/jar/spider-kaixin.jar",
+  "spider": "https://jsyfhome.zeabur.app/api/tvbox?format=json&token=20kDSBgBYk5uHxhBLMkIJGzBpwrPV7uo",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
@@ -2027,6 +2027,7 @@
     }
   ]
 }
+
 
 
 
