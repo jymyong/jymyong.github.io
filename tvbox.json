@@ -7,7 +7,13 @@
       "type": 0,
       "url": "https://raw.jsyfhome.dpdns.org/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
       "playerType": 2
-    }
+    },
+    {
+      "name": "Guovin直播",
+      "type": 0,
+      "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt",
+      "playerType": 2
+    }   
   ],
   "sites": [
     {
@@ -3003,6 +3009,7 @@
     }
   ]
 }
+
 
 
 
