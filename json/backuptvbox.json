@@ -22,7 +22,7 @@
     },
     {
       "key": "iqiyizyapi.com",
-      "name": "🎬-爱奇艺-",
+      "name": "🎬-爱奇艺",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
