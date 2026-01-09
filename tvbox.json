@@ -1,11 +1,11 @@
 {
- "spider": "./json/jar/spider-kaixin.jar",
+ "spider": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong/jymyong.github.io/refs/heads/main/json/jar/spider-kaixin.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
+      "url": "https://raw.jsyfhome.dpdns.org/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
       "playerType": 2
     }
   ],
@@ -4048,6 +4048,7 @@
     }
   ]
 }
+
 
 
 
