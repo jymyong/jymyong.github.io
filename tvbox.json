@@ -1599,17 +1599,6 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "maotv直播",
-      "name": "📺︎maotv直播",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "./json/api/maotv.js",
-      "ext": "./json/maotv.json"
-    },
-    {
       "key": "csp_Bili",
       "name": "🅱┃️哔哩┃肥猫",
       "type": 3,
@@ -3078,4 +3067,5 @@
     }
   ]
 }
+
 
