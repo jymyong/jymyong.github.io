@@ -22,7 +22,7 @@
       "filterable": 1,
       "changeable": 1,
       "api": "./api/maotv.js",
-      "ext": "./maotv.json"
+      "ext": "./api/maotv.json"
     },
     {
       "key": "文采",
