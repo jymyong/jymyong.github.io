@@ -1,7 +1,29 @@
 {
   "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a747194acf234c9e3f8e102fdc902970",
   "wallpaper": "https://jsyfhome.zeabur.app/logo.png",
+  "lives": [],
   "sites": [
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "🐮马氏一族观影愉快🐮",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/drpy.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "maotv直播",
+      "name": "📺︎maotv直播",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "./api/maotv.js",
+      "ext": "./maotv.json"
+    },
     {
       "key": "文采",
       "name": "文采┃秒播",
@@ -2942,7 +2964,6 @@
       ]
     }
   ],
-  "lives": [],
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
