@@ -3,13 +3,18 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
-      "name": "直播",
+      "name": "①直播",
       "type": 0,
       "url": "https://raw.jsyfhome.dpdns.org/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
       "playerType": 2
     },
+         "name": "②直播",
+      "type": 0,
+      "url": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong.github.io/refs/heads/main/live/mzs.txt",
+      "playerType": 2
+    },
     {
-      "name": "Guovin直播",
+      "name": "③Guovin直播",
       "type": 0,
       "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt",
       "playerType": 2
@@ -3061,6 +3066,7 @@
     }
   ]
 }
+
 
 
 
