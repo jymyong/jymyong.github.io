@@ -1,7 +1,14 @@
 {
   "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a747194acf234c9e3f8e102fdc902970",
   "wallpaper": "https://jsyfhome.zeabur.app/logo.png",
-  "lives": [],
+  "lives": [
+     {
+      "name": "①直播",
+      "type": 0,
+      "url": "https://raw.jsyfhome.dpdns.org/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
+       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+     }    
+  ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
