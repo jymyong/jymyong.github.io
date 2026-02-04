@@ -1,5 +1,5 @@
 {
- "spider": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong/jymyong.github.io/refs/heads/main/json/jar/spider-kaixin.jar",
+  "spider": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong/jymyong.github.io/refs/heads/main/json/jar/spider-kaixin.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
@@ -8,7 +8,8 @@
       "url": "https://raw.jsyfhome.dpdns.org/jymyong/iptv-api/refs/heads/master/output/user_result.txt",
       "playerType": 2
     },
-         "name": "②直播",
+    {
+      "name": "②直播",
       "type": 0,
       "url": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong.github.io/refs/heads/main/live/mzs.txt",
       "playerType": 2
@@ -18,7 +19,7 @@
       "type": 0,
       "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt",
       "playerType": 2
-    }   
+    }
   ],
   "sites": [
     {
@@ -48,7 +49,7 @@
         "日韩动漫",
         "欧美动漫",
         "港台动漫",
-        "动漫电影",     
+        "动漫电影",
         "电影",
         "连续剧",
         "综艺",
@@ -167,65 +168,65 @@
       "timeout": 10000,
       "retry": 2
     },
-           {
-            "key": "jszyapi.com",
-            "name": "🎬极速资源",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "",
-            "playerUrl": "",
-            "hide": 0,
-            "categories": [
-                "电视剧",
-                "电影",
-                "欧美剧",
-                "香港剧",
-                "韩剧",
-                "日剧",
-                "马泰剧",
-                "伦理片",
-                "动作片",
-                "爱情片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "动漫",
-                "内地剧",
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫",
-                "综艺",
-                "台湾剧",
-                "体育赛事",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "灾难片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
-                "短剧",
-                "预告片"
-            ],
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36",
-                "Accept": "application/json, text/plain, */*",
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                "Cache-Control": "no-cache",
-                "Connection": "close"
-            },
-            "timeout": 10000,
-            "retry": 2
-        },
+    {
+      "key": "jszyapi.com",
+      "name": "🎬极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "",
+      "playerUrl": "",
+      "hide": 0,
+      "categories": [
+        "电视剧",
+        "电影",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "伦理片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "动漫",
+        "内地剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "综艺",
+        "台湾剧",
+        "体育赛事",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "短剧",
+        "预告片"
+      ],
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        "Cache-Control": "no-cache",
+        "Connection": "close"
+      },
+      "timeout": 10000,
+      "retry": 2
+    },
     {
       "key": "www.maoyanzy.com",
       "name": "🎬猫眼资源",
@@ -290,7 +291,7 @@
         "短剧反转爽剧",
         "短剧女频恋爱",
         "短剧成长逆袭",
-        "奇幻片",
+        "奇幻片"
       ],
       "header": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36",
@@ -504,7 +505,7 @@
         "日韩动漫",
         "欧美动漫",
         "港台动漫",
-        "动漫电影", 
+        "动漫电影",
         "电影",
         "连续剧",
         "综艺",
@@ -3066,20 +3067,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
