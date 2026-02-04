@@ -1606,7 +1606,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "./json//api/maotv.js",
+      "api": "./json/api/maotv.js",
       "ext": "./json/maotv.json"
     },
     {
@@ -3078,3 +3078,4 @@
     }
   ]
 }
+
