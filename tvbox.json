@@ -14,8 +14,14 @@
       "url": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong.github.io/refs/heads/main/live/mzs.txt",
       "playerType": 2
     },
+        {
+      "name": "③fnos",
+      "type": 0,
+      "url": "http://172.16.8.95:7788/",
+      "playerType": 2
+    },
     {
-      "name": "③Guovin直播",
+      "name": "④Guovin直播",
       "type": 0,
       "url": "https://ghproxy.jymyong.dpdns.org/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt",
       "playerType": 2
@@ -3078,6 +3084,7 @@
     }
   ]
 }
+
 
 
 
